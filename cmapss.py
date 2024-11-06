@@ -1,4 +1,6 @@
 import torch
+import tsfresh
+import pandas as pd
 import numpy as np
 import warnings
 from tqdm import tqdm
@@ -6,9 +8,8 @@ from torch.utils.data import Dataset
 
 class cmapss(Dataset):
     def __init__(self, mode='train', feature_extract_mode='default', dataset=None, rul_result=None, window_size=30, max_rul=125):
-        self.data = np.loadtxt(fname=dataset, dtype=np.float32)
-        # Delete sensor 1, 5, 6, 10, 16, 18, 19
-        self.data = np.delete(self.data, [5, 9, 10, 14, 20, 22, 23], axis=1)
+        self.data_df = pd.read_csv(dataset)
+        self.data = self.data_df.values.astype(np.float32)
         self.sample_num = int(self.data[-1][0])
         self.length = []
         self.mode = mode
@@ -73,18 +74,17 @@ class cmapss(Dataset):
         self.x = np.array(self.x)
         self.y = np.array(self.y)/self.max_rul
         
-
     def feature_extract(self):
 
         feature_extract_mode = self.feature_extract_mode
-        dataset = self.x
         print(f'Run {feature_extract_mode} feature extraction for {self.mode} dataset')
 
         # Feature extraction
         features = []
         if feature_extract_mode == 'tsfresh':
-            features = []
+            features = self.tsfresh_feature_extract()
         else:
+            dataset = self.x
             for data in tqdm(dataset, desc="Processing data", unit="data"):
                 x = np.array(range(data.shape[0]))
                 features_for_data = []
@@ -104,6 +104,59 @@ class cmapss(Dataset):
         self.features = normalized_features
         return normalized_features
 
+    def tsfresh_feature_extract(self):
+        feature_file_path = './feature_statistics.txt'
+        features = []
+
+        with open(feature_file_path, 'r') as file:
+            feature_lines = file.readlines()
+
+        feature_config = []
+        for line in feature_lines:
+            parts = line.strip().split('__')
+            if len(parts) == 2:
+                column_name, feature_part = parts[0], parts[1]
+                column_name = column_name.replace(' ', '_')
+                feature_name = feature_part.split(':')[0].strip()
+                feature_config.append((column_name, feature_name))
+
+        dataset = self.x
+        x_cols = self.data_df.columns[2:]
+
+        feature_extractors = {
+            'minimum': extract_minimum,
+            'maximum': extract_maximum,
+            'absolute_maximum': extract_absolute_maximum,
+            'median': extract_median,
+            'sum_values': extract_sum_values,
+            'standard_deviation': extract_standard_deviation,
+            'variance': extract_variance,
+            'root_mean_square': extract_root_mean_square
+        }
+
+        for unit_id in tqdm(range(dataset.shape[0]), desc="Processing units", unit="unit"):
+            data = dataset[unit_id]
+
+            x_df = pd.DataFrame(data)
+            x_df.columns = x_cols
+
+            x_df.columns = [col.replace(' ', '_') for col in x_df.columns]
+
+            data_features = []
+            for col_name, feature_type in feature_config:
+                if col_name in x_df.columns:
+                    if feature_type in feature_extractors:
+                        feature_func = feature_extractors[feature_type]
+                        extracted_feature = feature_func(x_df[col_name].values)
+
+                        data_features.append(extracted_feature)
+                    else:
+                        data_features.append(np.nan)
+
+            features.append(data_features)
+
+        return features
+
     def __len__(self):
         return len(self.y)
 
@@ -115,6 +168,31 @@ class cmapss(Dataset):
         else:
             handcrafted_features = torch.empty(0, dtype=torch.float32)
         return x_tensor, handcrafted_features, y_tensor
+
+
+def extract_minimum(data):
+    return np.min(data)
+
+def extract_maximum(data):
+    return np.max(data)
+
+def extract_absolute_maximum(data):
+    return np.max(np.abs(data))
+
+def extract_median(data):
+    return np.median(data)
+
+def extract_sum_values(data):
+    return np.sum(data)
+
+def extract_standard_deviation(data):
+    return np.std(data)
+
+def extract_variance(data):
+    return np.var(data)
+
+def extract_root_mean_square(data):
+    return np.sqrt(np.mean(np.square(data)))
 
 
 

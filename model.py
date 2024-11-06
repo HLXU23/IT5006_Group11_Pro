@@ -1,11 +1,11 @@
 import torch
 from torch import nn
 
-ori_feature_num = 17
+
 handcrafted_feature_num = 34
 
 class Model_CNN(nn.Module):
-    def __init__(self, window_size):
+    def __init__(self, window_size, ori_feature_num, handcrafted_feature_num):
         super(Model_CNN, self).__init__()
         self.cnn = nn.Sequential(
             nn.Conv2d(in_channels=1, out_channels=8, kernel_size=(4, ori_feature_num), stride=1),
@@ -34,8 +34,8 @@ class Model_CNN(nn.Module):
         return out
 
 class Model_CNN_feature(nn.Module):
-    def __init__(self):
-        super(Model_CNN, self).__init__()
+    def __init__(self, window_size, ori_feature_num, handcrafted_feature_num):
+        super(Model_CNN_feature, self).__init__()
         self.cnn = nn.Sequential(
             nn.Conv2d(in_channels=1, out_channels=8, kernel_size=(4, ori_feature_num), stride=1),
             nn.BatchNorm2d(num_features=8),
@@ -47,7 +47,7 @@ class Model_CNN_feature(nn.Module):
             nn.AvgPool2d(kernel_size=(2, 1), stride=2),
         )
         self.linear = nn.Sequential(
-            nn.Linear(in_features=70, out_features=1)
+            nn.Linear(in_features=14 * (window_size - 10) // 4 + handcrafted_feature_num, out_features=1)
         )
 
     # Defining the forward pass
@@ -55,11 +55,12 @@ class Model_CNN_feature(nn.Module):
         x = inputs.unsqueeze(1)
         x = self.cnn(x)
         x = x.view(x.size(0), -1)
-        out = self.linear(x)
+        combined_x = torch.cat((x, handcrafted_feature), dim=1)
+        out = self.linear(combined_x)
         return out
 
 class Model(nn.Module):
-    def __init__(self):
+    def __init__(self, window_size, ori_feature_num, handcrafted_feature_num):
         super(Model, self).__init__()
         self.lstm = nn.LSTM(batch_first=True, input_size=ori_feature_num, hidden_size=50, num_layers=1)
         self.attenion = Attention3dBlock()

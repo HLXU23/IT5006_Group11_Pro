@@ -2,14 +2,14 @@ import torch
 import numpy as np
 
 class Trainer:
-    def __init__(self, model, model_optimizer, print_every, epochs=200, device='cpu', prefix='FD001', result_name='RUL_pred', max_rul = 125):
+    def __init__(self, model, model_optimizer, print_every, epochs=200, device='cpu', result_name='RUL_pred', max_rul = 125):
         self.model = model.to(device)
         self.model_optimizer = model_optimizer
         self.print_every = print_every
         self.epochs = epochs
         self.device = device
         self.criterion = torch.nn.MSELoss()
-        self.prefix = prefix
+        self.result_name = result_name
         self.log_file = f'./log/{result_name}.log'
         self.max_rul = max_rul
 
@@ -35,7 +35,8 @@ class Trainer:
             self.model_optimizer.step()
 
             if (batch_index + 1) % self.print_every == 0:
-                log_message = 'batch:{}/{}, loss(avg. on {} batches: {}'.format(batch_index + 1,
+                log_message = 'batch:{}/{}, loss(avg. on {} batches: {}'.format(
+                                                                        batch_index + 1,
                                                                         length,
                                                                         self.print_every,
                                                                         running_loss / self.print_every,
@@ -69,7 +70,7 @@ class Trainer:
             'state_dict': self.model.state_dict(),
             'optim_dict': self.model_optimizer.state_dict()
         }
-        torch.save(state, './checkpoints/{}_iteration{}_{}.pth.tar'.format(self.prefix, iteration, which_type))
+        torch.save(state, f'./checkpoints/{self.result_name}_iteration{iteration}_{which_type}.pth.tar')
         log_message = '{}_checkpoints saved successfully!'.format(which_type)
         self.write_train_log(log_message)
 
