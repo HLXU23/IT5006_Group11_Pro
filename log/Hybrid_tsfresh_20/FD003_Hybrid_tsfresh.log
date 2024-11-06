@@ -1,0 +1,2070 @@
+Epoch: 1
+batch:20/219, loss(avg. on 20 batches: 0.4320643454790115
+batch:40/219, loss(avg. on 20 batches: 0.16099120639264583
+batch:60/219, loss(avg. on 20 batches: 0.07345544975250959
+batch:80/219, loss(avg. on 20 batches: 0.06014361325651407
+batch:100/219, loss(avg. on 20 batches: 0.05540294349193573
+batch:120/219, loss(avg. on 20 batches: 0.051693450659513474
+batch:140/219, loss(avg. on 20 batches: 0.0469150148332119
+batch:160/219, loss(avg. on 20 batches: 0.046512121148407456
+batch:180/219, loss(avg. on 20 batches: 0.046284711360931395
+batch:200/219, loss(avg. on 20 batches: 0.04529750198125839
+test result: score: 8464.4443359375, RMSE: 25.456701278686523
+Epoch: 2
+batch:20/219, loss(avg. on 20 batches: 0.04188487641513348
+batch:40/219, loss(avg. on 20 batches: 0.04057076433673501
+batch:60/219, loss(avg. on 20 batches: 0.03899092162027955
+batch:80/219, loss(avg. on 20 batches: 0.039708716422319414
+batch:100/219, loss(avg. on 20 batches: 0.03837977582588792
+batch:120/219, loss(avg. on 20 batches: 0.03962010834366083
+batch:140/219, loss(avg. on 20 batches: 0.03824254730716348
+batch:160/219, loss(avg. on 20 batches: 0.03807063363492489
+batch:180/219, loss(avg. on 20 batches: 0.03946643089875579
+batch:200/219, loss(avg. on 20 batches: 0.03776493798941374
+test result: score: 7409.091796875, RMSE: 25.94270896911621
+best_score_checkpoints saved successfully!
+Epoch: 3
+batch:20/219, loss(avg. on 20 batches: 0.038974807038903235
+batch:40/219, loss(avg. on 20 batches: 0.037656185682863
+batch:60/219, loss(avg. on 20 batches: 0.037223597522825
+batch:80/219, loss(avg. on 20 batches: 0.036058733239769936
+batch:100/219, loss(avg. on 20 batches: 0.03507838696241379
+batch:120/219, loss(avg. on 20 batches: 0.03782793814316392
+batch:140/219, loss(avg. on 20 batches: 0.03711426611989736
+batch:160/219, loss(avg. on 20 batches: 0.034998579137027266
+batch:180/219, loss(avg. on 20 batches: 0.034898935724049805
+batch:200/219, loss(avg. on 20 batches: 0.03525282880291343
+test result: score: 4737.92529296875, RMSE: 24.214035034179688
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 4
+batch:20/219, loss(avg. on 20 batches: 0.03481988189741969
+batch:40/219, loss(avg. on 20 batches: 0.03438396537676454
+batch:60/219, loss(avg. on 20 batches: 0.035610427334904673
+batch:80/219, loss(avg. on 20 batches: 0.03356434628367424
+batch:100/219, loss(avg. on 20 batches: 0.03416477087885141
+batch:120/219, loss(avg. on 20 batches: 0.03364221332594752
+batch:140/219, loss(avg. on 20 batches: 0.03603697242215276
+batch:160/219, loss(avg. on 20 batches: 0.03468722319230437
+batch:180/219, loss(avg. on 20 batches: 0.03298415597528219
+batch:200/219, loss(avg. on 20 batches: 0.034295433294028045
+test result: score: 3564.76904296875, RMSE: 23.168437957763672
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 5
+batch:20/219, loss(avg. on 20 batches: 0.032680895552039145
+batch:40/219, loss(avg. on 20 batches: 0.03145482586696744
+batch:60/219, loss(avg. on 20 batches: 0.03010497521609068
+batch:80/219, loss(avg. on 20 batches: 0.031105106882750987
+batch:100/219, loss(avg. on 20 batches: 0.029783954843878746
+batch:120/219, loss(avg. on 20 batches: 0.028685996402055026
+batch:140/219, loss(avg. on 20 batches: 0.03018223000690341
+batch:160/219, loss(avg. on 20 batches: 0.027267128229141235
+batch:180/219, loss(avg. on 20 batches: 0.02770626936107874
+batch:200/219, loss(avg. on 20 batches: 0.02791037978604436
+test result: score: 3012.7822265625, RMSE: 22.245378494262695
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 6
+batch:20/219, loss(avg. on 20 batches: 0.0262900996953249
+batch:40/219, loss(avg. on 20 batches: 0.027410101611167192
+batch:60/219, loss(avg. on 20 batches: 0.027495567314326765
+batch:80/219, loss(avg. on 20 batches: 0.024322879035025835
+batch:100/219, loss(avg. on 20 batches: 0.02614926127716899
+batch:120/219, loss(avg. on 20 batches: 0.02590200286358595
+batch:140/219, loss(avg. on 20 batches: 0.025443505216389894
+batch:160/219, loss(avg. on 20 batches: 0.024566734209656715
+batch:180/219, loss(avg. on 20 batches: 0.02423760639503598
+batch:200/219, loss(avg. on 20 batches: 0.023820364754647015
+test result: score: 1578.2674560546875, RMSE: 20.017210006713867
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 7
+batch:20/219, loss(avg. on 20 batches: 0.02362530818209052
+batch:40/219, loss(avg. on 20 batches: 0.0237972947768867
+batch:60/219, loss(avg. on 20 batches: 0.026639460120350122
+batch:80/219, loss(avg. on 20 batches: 0.023433132376521826
+batch:100/219, loss(avg. on 20 batches: 0.022867732495069504
+batch:120/219, loss(avg. on 20 batches: 0.023243084270507097
+batch:140/219, loss(avg. on 20 batches: 0.021312509011477233
+batch:160/219, loss(avg. on 20 batches: 0.022849590796977282
+batch:180/219, loss(avg. on 20 batches: 0.023073145374655723
+batch:200/219, loss(avg. on 20 batches: 0.023055498069152237
+test result: score: 1317.984375, RMSE: 19.728086471557617
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 8
+batch:20/219, loss(avg. on 20 batches: 0.022867146227508784
+batch:40/219, loss(avg. on 20 batches: 0.021467533707618714
+batch:60/219, loss(avg. on 20 batches: 0.020833581779152156
+batch:80/219, loss(avg. on 20 batches: 0.023528223671019078
+batch:100/219, loss(avg. on 20 batches: 0.021631120564416052
+batch:120/219, loss(avg. on 20 batches: 0.021640971396118404
+batch:140/219, loss(avg. on 20 batches: 0.021789143327623606
+batch:160/219, loss(avg. on 20 batches: 0.02113708248361945
+batch:180/219, loss(avg. on 20 batches: 0.02004770915955305
+batch:200/219, loss(avg. on 20 batches: 0.01974726072512567
+test result: score: 1329.171142578125, RMSE: 20.021757125854492
+Epoch: 9
+batch:20/219, loss(avg. on 20 batches: 0.019350016303360463
+batch:40/219, loss(avg. on 20 batches: 0.020045452704653143
+batch:60/219, loss(avg. on 20 batches: 0.0197652293369174
+batch:80/219, loss(avg. on 20 batches: 0.019593953993171452
+batch:100/219, loss(avg. on 20 batches: 0.02037276909686625
+batch:120/219, loss(avg. on 20 batches: 0.019265308044850826
+batch:140/219, loss(avg. on 20 batches: 0.017724356753751634
+batch:160/219, loss(avg. on 20 batches: 0.018537517357617616
+batch:180/219, loss(avg. on 20 batches: 0.017774767614901064
+batch:200/219, loss(avg. on 20 batches: 0.01878857552073896
+test result: score: 846.4461669921875, RMSE: 18.21781349182129
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 10
+batch:20/219, loss(avg. on 20 batches: 0.0182952300645411
+batch:40/219, loss(avg. on 20 batches: 0.017453394969925283
+batch:60/219, loss(avg. on 20 batches: 0.018349138228222726
+batch:80/219, loss(avg. on 20 batches: 0.01644676737487316
+batch:100/219, loss(avg. on 20 batches: 0.01604847670532763
+batch:120/219, loss(avg. on 20 batches: 0.01552614439278841
+batch:140/219, loss(avg. on 20 batches: 0.01777213574387133
+batch:160/219, loss(avg. on 20 batches: 0.01648520170710981
+batch:180/219, loss(avg. on 20 batches: 0.016083757393062115
+batch:200/219, loss(avg. on 20 batches: 0.015836688317358495
+test result: score: 538.7901000976562, RMSE: 17.248779296875
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 11
+batch:20/219, loss(avg. on 20 batches: 0.016584204975515604
+batch:40/219, loss(avg. on 20 batches: 0.016427605133503675
+batch:60/219, loss(avg. on 20 batches: 0.015172417089343072
+batch:80/219, loss(avg. on 20 batches: 0.016287032747641206
+batch:100/219, loss(avg. on 20 batches: 0.014318625023588539
+batch:120/219, loss(avg. on 20 batches: 0.01733906059525907
+batch:140/219, loss(avg. on 20 batches: 0.016703797876834868
+batch:160/219, loss(avg. on 20 batches: 0.014584090653806924
+batch:180/219, loss(avg. on 20 batches: 0.01539726103655994
+batch:200/219, loss(avg. on 20 batches: 0.015808556228876114
+test result: score: 679.488037109375, RMSE: 17.38861846923828
+Epoch: 12
+batch:20/219, loss(avg. on 20 batches: 0.014204799570143223
+batch:40/219, loss(avg. on 20 batches: 0.015409235982224346
+batch:60/219, loss(avg. on 20 batches: 0.016225950606167317
+batch:80/219, loss(avg. on 20 batches: 0.015984840970486403
+batch:100/219, loss(avg. on 20 batches: 0.015318433567881585
+batch:120/219, loss(avg. on 20 batches: 0.014345027040690184
+batch:140/219, loss(avg. on 20 batches: 0.014849968627095223
+batch:160/219, loss(avg. on 20 batches: 0.015462678438052536
+batch:180/219, loss(avg. on 20 batches: 0.01441425709053874
+batch:200/219, loss(avg. on 20 batches: 0.014920300850644708
+test result: score: 594.0162353515625, RMSE: 17.017404556274414
+best_RMSE_checkpoints saved successfully!
+Epoch: 13
+batch:20/219, loss(avg. on 20 batches: 0.01473497785627842
+batch:40/219, loss(avg. on 20 batches: 0.014316834602504968
+batch:60/219, loss(avg. on 20 batches: 0.014468557853251695
+batch:80/219, loss(avg. on 20 batches: 0.015487173432484269
+batch:100/219, loss(avg. on 20 batches: 0.015372873889282346
+batch:120/219, loss(avg. on 20 batches: 0.014525470323860645
+batch:140/219, loss(avg. on 20 batches: 0.01353743690997362
+batch:160/219, loss(avg. on 20 batches: 0.014721123548224569
+batch:180/219, loss(avg. on 20 batches: 0.013139035273343324
+batch:200/219, loss(avg. on 20 batches: 0.013438561232760549
+test result: score: 489.37396240234375, RMSE: 15.955045700073242
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 14
+batch:20/219, loss(avg. on 20 batches: 0.012412746879272163
+batch:40/219, loss(avg. on 20 batches: 0.013405500445514917
+batch:60/219, loss(avg. on 20 batches: 0.01363050127401948
+batch:80/219, loss(avg. on 20 batches: 0.013381643500179053
+batch:100/219, loss(avg. on 20 batches: 0.01395318889990449
+batch:120/219, loss(avg. on 20 batches: 0.01443741018883884
+batch:140/219, loss(avg. on 20 batches: 0.012917399127036332
+batch:160/219, loss(avg. on 20 batches: 0.014098619157448412
+batch:180/219, loss(avg. on 20 batches: 0.013819599756971002
+batch:200/219, loss(avg. on 20 batches: 0.013100852677598595
+test result: score: 710.8272705078125, RMSE: 17.411178588867188
+Epoch: 15
+batch:20/219, loss(avg. on 20 batches: 0.014249298861250282
+batch:40/219, loss(avg. on 20 batches: 0.012539548519998788
+batch:60/219, loss(avg. on 20 batches: 0.014888019347563387
+batch:80/219, loss(avg. on 20 batches: 0.01297069457359612
+batch:100/219, loss(avg. on 20 batches: 0.014240434765815735
+batch:120/219, loss(avg. on 20 batches: 0.013470870442688465
+batch:140/219, loss(avg. on 20 batches: 0.013067244458943606
+batch:160/219, loss(avg. on 20 batches: 0.013592210272327066
+batch:180/219, loss(avg. on 20 batches: 0.013497562985867262
+batch:200/219, loss(avg. on 20 batches: 0.012991822650656104
+test result: score: 403.988037109375, RMSE: 15.488214492797852
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 16
+batch:20/219, loss(avg. on 20 batches: 0.012575545976869763
+batch:40/219, loss(avg. on 20 batches: 0.013880756497383118
+batch:60/219, loss(avg. on 20 batches: 0.013961213501170277
+batch:80/219, loss(avg. on 20 batches: 0.014120498206466436
+batch:100/219, loss(avg. on 20 batches: 0.012357982550747692
+batch:120/219, loss(avg. on 20 batches: 0.014529806328937411
+batch:140/219, loss(avg. on 20 batches: 0.01173383416607976
+batch:160/219, loss(avg. on 20 batches: 0.013560135290026665
+batch:180/219, loss(avg. on 20 batches: 0.01368058896623552
+batch:200/219, loss(avg. on 20 batches: 0.012236770102754235
+test result: score: 604.8446044921875, RMSE: 16.36273956298828
+Epoch: 17
+batch:20/219, loss(avg. on 20 batches: 0.012765723932534456
+batch:40/219, loss(avg. on 20 batches: 0.01319089075550437
+batch:60/219, loss(avg. on 20 batches: 0.013027899898588657
+batch:80/219, loss(avg. on 20 batches: 0.012369320914149284
+batch:100/219, loss(avg. on 20 batches: 0.01318792556412518
+batch:120/219, loss(avg. on 20 batches: 0.012123297061771154
+batch:140/219, loss(avg. on 20 batches: 0.011909731663763523
+batch:160/219, loss(avg. on 20 batches: 0.012404249981045723
+batch:180/219, loss(avg. on 20 batches: 0.012853797106072307
+batch:200/219, loss(avg. on 20 batches: 0.012083517434075475
+test result: score: 431.79254150390625, RMSE: 15.611940383911133
+Epoch: 18
+batch:20/219, loss(avg. on 20 batches: 0.01346087153069675
+batch:40/219, loss(avg. on 20 batches: 0.011874713911674916
+batch:60/219, loss(avg. on 20 batches: 0.01242595580406487
+batch:80/219, loss(avg. on 20 batches: 0.013124902872368694
+batch:100/219, loss(avg. on 20 batches: 0.012982996739447117
+batch:120/219, loss(avg. on 20 batches: 0.012475053663365543
+batch:140/219, loss(avg. on 20 batches: 0.011189898662269115
+batch:160/219, loss(avg. on 20 batches: 0.012879459699615837
+batch:180/219, loss(avg. on 20 batches: 0.01204492556862533
+batch:200/219, loss(avg. on 20 batches: 0.012354635260999202
+test result: score: 435.7778625488281, RMSE: 15.490335464477539
+Epoch: 19
+batch:20/219, loss(avg. on 20 batches: 0.012747742841020227
+batch:40/219, loss(avg. on 20 batches: 0.012417880585417151
+batch:60/219, loss(avg. on 20 batches: 0.011748299514874817
+batch:80/219, loss(avg. on 20 batches: 0.011765194172039629
+batch:100/219, loss(avg. on 20 batches: 0.011708178278058767
+batch:120/219, loss(avg. on 20 batches: 0.01213576104491949
+batch:140/219, loss(avg. on 20 batches: 0.01171319386921823
+batch:160/219, loss(avg. on 20 batches: 0.011619526194408536
+batch:180/219, loss(avg. on 20 batches: 0.011440051696263253
+batch:200/219, loss(avg. on 20 batches: 0.01240487014874816
+test result: score: 328.19317626953125, RMSE: 15.238014221191406
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 20
+batch:20/219, loss(avg. on 20 batches: 0.012278085015714169
+batch:40/219, loss(avg. on 20 batches: 0.01141990339383483
+batch:60/219, loss(avg. on 20 batches: 0.012382550374604761
+batch:80/219, loss(avg. on 20 batches: 0.011642594821751118
+batch:100/219, loss(avg. on 20 batches: 0.011282436782494187
+batch:120/219, loss(avg. on 20 batches: 0.010746444575488567
+batch:140/219, loss(avg. on 20 batches: 0.012438692152500153
+batch:160/219, loss(avg. on 20 batches: 0.011761862132698298
+batch:180/219, loss(avg. on 20 batches: 0.011408181907609106
+batch:200/219, loss(avg. on 20 batches: 0.011656856164336205
+test result: score: 475.0019226074219, RMSE: 15.303499221801758
+Epoch: 21
+batch:20/219, loss(avg. on 20 batches: 0.011701722443103791
+batch:40/219, loss(avg. on 20 batches: 0.010771138034760952
+batch:60/219, loss(avg. on 20 batches: 0.010674912948161364
+batch:80/219, loss(avg. on 20 batches: 0.01091763712465763
+batch:100/219, loss(avg. on 20 batches: 0.01147552824113518
+batch:120/219, loss(avg. on 20 batches: 0.010826675756834447
+batch:140/219, loss(avg. on 20 batches: 0.013396474532783031
+batch:160/219, loss(avg. on 20 batches: 0.011959826294332742
+batch:180/219, loss(avg. on 20 batches: 0.010677020298317075
+batch:200/219, loss(avg. on 20 batches: 0.010299518192186951
+test result: score: 388.5102844238281, RMSE: 14.781195640563965
+best_RMSE_checkpoints saved successfully!
+Epoch: 22
+batch:20/219, loss(avg. on 20 batches: 0.011558053502812981
+batch:40/219, loss(avg. on 20 batches: 0.011871186643838882
+batch:60/219, loss(avg. on 20 batches: 0.010369711369276047
+batch:80/219, loss(avg. on 20 batches: 0.011270026746205985
+batch:100/219, loss(avg. on 20 batches: 0.010634339251555502
+batch:120/219, loss(avg. on 20 batches: 0.010758611932396888
+batch:140/219, loss(avg. on 20 batches: 0.010880941920913757
+batch:160/219, loss(avg. on 20 batches: 0.011225353321060538
+batch:180/219, loss(avg. on 20 batches: 0.010722928075119853
+batch:200/219, loss(avg. on 20 batches: 0.010931782610714435
+test result: score: 345.11724853515625, RMSE: 14.291606903076172
+best_RMSE_checkpoints saved successfully!
+Epoch: 23
+batch:20/219, loss(avg. on 20 batches: 0.010380784631706774
+batch:40/219, loss(avg. on 20 batches: 0.011043062596581877
+batch:60/219, loss(avg. on 20 batches: 0.011206362675875426
+batch:80/219, loss(avg. on 20 batches: 0.011831329623237252
+batch:100/219, loss(avg. on 20 batches: 0.01161956840660423
+batch:120/219, loss(avg. on 20 batches: 0.01166237723082304
+batch:140/219, loss(avg. on 20 batches: 0.010157284629531204
+batch:160/219, loss(avg. on 20 batches: 0.010478961071930826
+batch:180/219, loss(avg. on 20 batches: 0.010817703162319958
+batch:200/219, loss(avg. on 20 batches: 0.010744081763550638
+test result: score: 402.44635009765625, RMSE: 14.506104469299316
+Epoch: 24
+batch:20/219, loss(avg. on 20 batches: 0.01108602825552225
+batch:40/219, loss(avg. on 20 batches: 0.009659940539859236
+batch:60/219, loss(avg. on 20 batches: 0.01050769817084074
+batch:80/219, loss(avg. on 20 batches: 0.010691893682815135
+batch:100/219, loss(avg. on 20 batches: 0.009734167088754474
+batch:120/219, loss(avg. on 20 batches: 0.010582716669887304
+batch:140/219, loss(avg. on 20 batches: 0.0102609341731295
+batch:160/219, loss(avg. on 20 batches: 0.011287942854687571
+batch:180/219, loss(avg. on 20 batches: 0.010044051497243345
+batch:200/219, loss(avg. on 20 batches: 0.01075759707018733
+test result: score: 361.3480529785156, RMSE: 13.987462043762207
+best_RMSE_checkpoints saved successfully!
+Epoch: 25
+batch:20/219, loss(avg. on 20 batches: 0.01101287843193859
+batch:40/219, loss(avg. on 20 batches: 0.010271191247738898
+batch:60/219, loss(avg. on 20 batches: 0.010818892321549357
+batch:80/219, loss(avg. on 20 batches: 0.010437347227707505
+batch:100/219, loss(avg. on 20 batches: 0.01049337729346007
+batch:120/219, loss(avg. on 20 batches: 0.00981351681984961
+batch:140/219, loss(avg. on 20 batches: 0.010776223265565932
+batch:160/219, loss(avg. on 20 batches: 0.010741307260468602
+batch:180/219, loss(avg. on 20 batches: 0.010121594346128405
+batch:200/219, loss(avg. on 20 batches: 0.010732544609345496
+test result: score: 285.4788818359375, RMSE: 13.462394714355469
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 26
+batch:20/219, loss(avg. on 20 batches: 0.009811814688146115
+batch:40/219, loss(avg. on 20 batches: 0.010102021880447865
+batch:60/219, loss(avg. on 20 batches: 0.009397946111857892
+batch:80/219, loss(avg. on 20 batches: 0.009973073191940785
+batch:100/219, loss(avg. on 20 batches: 0.009406134998425842
+batch:120/219, loss(avg. on 20 batches: 0.010235553770326079
+batch:140/219, loss(avg. on 20 batches: 0.00981669097673148
+batch:160/219, loss(avg. on 20 batches: 0.01066672634333372
+batch:180/219, loss(avg. on 20 batches: 0.009917212324216962
+batch:200/219, loss(avg. on 20 batches: 0.00975434510037303
+test result: score: 300.4104919433594, RMSE: 13.295103073120117
+best_RMSE_checkpoints saved successfully!
+Epoch: 27
+batch:20/219, loss(avg. on 20 batches: 0.009980177553370596
+batch:40/219, loss(avg. on 20 batches: 0.010199104249477387
+batch:60/219, loss(avg. on 20 batches: 0.00980517992284149
+batch:80/219, loss(avg. on 20 batches: 0.009873971133492887
+batch:100/219, loss(avg. on 20 batches: 0.009807258378714323
+batch:120/219, loss(avg. on 20 batches: 0.009783795452676713
+batch:140/219, loss(avg. on 20 batches: 0.010011624707840384
+batch:160/219, loss(avg. on 20 batches: 0.009491334203630686
+batch:180/219, loss(avg. on 20 batches: 0.00904027563519776
+batch:200/219, loss(avg. on 20 batches: 0.010870106029324233
+test result: score: 422.1518249511719, RMSE: 14.172211647033691
+Epoch: 28
+batch:20/219, loss(avg. on 20 batches: 0.0105164201464504
+batch:40/219, loss(avg. on 20 batches: 0.010428858269006015
+batch:60/219, loss(avg. on 20 batches: 0.01015312816016376
+batch:80/219, loss(avg. on 20 batches: 0.009835384436883032
+batch:100/219, loss(avg. on 20 batches: 0.009713174239732326
+batch:120/219, loss(avg. on 20 batches: 0.009280975558795035
+batch:140/219, loss(avg. on 20 batches: 0.009422845020890237
+batch:160/219, loss(avg. on 20 batches: 0.010326134227216243
+batch:180/219, loss(avg. on 20 batches: 0.008675460400991142
+batch:200/219, loss(avg. on 20 batches: 0.008819586248137057
+test result: score: 310.49871826171875, RMSE: 13.40134048461914
+Epoch: 29
+batch:20/219, loss(avg. on 20 batches: 0.00914733314421028
+batch:40/219, loss(avg. on 20 batches: 0.008687584544532001
+batch:60/219, loss(avg. on 20 batches: 0.009450285765342414
+batch:80/219, loss(avg. on 20 batches: 0.00960719792637974
+batch:100/219, loss(avg. on 20 batches: 0.009298960352316499
+batch:120/219, loss(avg. on 20 batches: 0.008989190123975277
+batch:140/219, loss(avg. on 20 batches: 0.009541648742742836
+batch:160/219, loss(avg. on 20 batches: 0.009969021985307336
+batch:180/219, loss(avg. on 20 batches: 0.009581349580548704
+batch:200/219, loss(avg. on 20 batches: 0.009214342013001442
+test result: score: 280.0740966796875, RMSE: 12.45637035369873
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 30
+batch:20/219, loss(avg. on 20 batches: 0.009700326155871153
+batch:40/219, loss(avg. on 20 batches: 0.010089003155007959
+batch:60/219, loss(avg. on 20 batches: 0.008919015200808645
+batch:80/219, loss(avg. on 20 batches: 0.009277908643707634
+batch:100/219, loss(avg. on 20 batches: 0.008870717068202794
+batch:120/219, loss(avg. on 20 batches: 0.010462532960809767
+batch:140/219, loss(avg. on 20 batches: 0.010104323807172477
+batch:160/219, loss(avg. on 20 batches: 0.009219635976478457
+batch:180/219, loss(avg. on 20 batches: 0.009162212442606687
+batch:200/219, loss(avg. on 20 batches: 0.009119042591191829
+test result: score: 250.35772705078125, RMSE: 12.414504051208496
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 31
+batch:20/219, loss(avg. on 20 batches: 0.008882373897358775
+batch:40/219, loss(avg. on 20 batches: 0.009915851498953998
+batch:60/219, loss(avg. on 20 batches: 0.009523826977238059
+batch:80/219, loss(avg. on 20 batches: 0.009209421393461526
+batch:100/219, loss(avg. on 20 batches: 0.009442440303973853
+batch:120/219, loss(avg. on 20 batches: 0.009457896440289914
+batch:140/219, loss(avg. on 20 batches: 0.008894804120063781
+batch:160/219, loss(avg. on 20 batches: 0.008126895548775792
+batch:180/219, loss(avg. on 20 batches: 0.010032420814968645
+batch:200/219, loss(avg. on 20 batches: 0.00931605277583003
+test result: score: 234.16104125976562, RMSE: 12.256047248840332
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 32
+batch:20/219, loss(avg. on 20 batches: 0.008968523587100208
+batch:40/219, loss(avg. on 20 batches: 0.009554842673242091
+batch:60/219, loss(avg. on 20 batches: 0.008805168722756208
+batch:80/219, loss(avg. on 20 batches: 0.009396241186186672
+batch:100/219, loss(avg. on 20 batches: 0.009895964385941624
+batch:120/219, loss(avg. on 20 batches: 0.009494171105325222
+batch:140/219, loss(avg. on 20 batches: 0.009488752670586109
+batch:160/219, loss(avg. on 20 batches: 0.008429769589565695
+batch:180/219, loss(avg. on 20 batches: 0.00899932652246207
+batch:200/219, loss(avg. on 20 batches: 0.008985156915150583
+test result: score: 341.2109069824219, RMSE: 13.01708698272705
+Epoch: 1
+batch:20/219, loss(avg. on 20 batches: 0.42572914212942126
+batch:40/219, loss(avg. on 20 batches: 0.13095534294843675
+batch:60/219, loss(avg. on 20 batches: 0.09874074012041092
+batch:80/219, loss(avg. on 20 batches: 0.07793073579668999
+batch:100/219, loss(avg. on 20 batches: 0.06652915347367525
+batch:120/219, loss(avg. on 20 batches: 0.0571117676794529
+batch:140/219, loss(avg. on 20 batches: 0.0571926299482584
+batch:160/219, loss(avg. on 20 batches: 0.05295517742633819
+batch:180/219, loss(avg. on 20 batches: 0.04850039687007666
+batch:200/219, loss(avg. on 20 batches: 0.0448132099583745
+test result: score: 6423.623046875, RMSE: 26.889097213745117
+Epoch: 2
+batch:20/219, loss(avg. on 20 batches: 0.044924472086131574
+batch:40/219, loss(avg. on 20 batches: 0.04623878505080938
+batch:60/219, loss(avg. on 20 batches: 0.0435164824128151
+batch:80/219, loss(avg. on 20 batches: 0.04436565935611725
+batch:100/219, loss(avg. on 20 batches: 0.04257155992090702
+batch:120/219, loss(avg. on 20 batches: 0.04155007656663656
+batch:140/219, loss(avg. on 20 batches: 0.04081737771630287
+batch:160/219, loss(avg. on 20 batches: 0.04071643352508545
+batch:180/219, loss(avg. on 20 batches: 0.03990302374586463
+batch:200/219, loss(avg. on 20 batches: 0.03778512757271528
+test result: score: 3854.033203125, RMSE: 25.373903274536133
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 3
+batch:20/219, loss(avg. on 20 batches: 0.042109848372638224
+batch:40/219, loss(avg. on 20 batches: 0.03887981651350856
+batch:60/219, loss(avg. on 20 batches: 0.0380093109793961
+batch:80/219, loss(avg. on 20 batches: 0.038383320719003675
+batch:100/219, loss(avg. on 20 batches: 0.0384745467454195
+batch:120/219, loss(avg. on 20 batches: 0.03842350346967578
+batch:140/219, loss(avg. on 20 batches: 0.03757310248911381
+batch:160/219, loss(avg. on 20 batches: 0.03839269382879138
+batch:180/219, loss(avg. on 20 batches: 0.03952004462480545
+batch:200/219, loss(avg. on 20 batches: 0.036178271286189556
+test result: score: 3045.36865234375, RMSE: 23.9074764251709
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 4
+batch:20/219, loss(avg. on 20 batches: 0.03891724236309528
+batch:40/219, loss(avg. on 20 batches: 0.036831696331501004
+batch:60/219, loss(avg. on 20 batches: 0.03788783745840192
+batch:80/219, loss(avg. on 20 batches: 0.03564295172691345
+batch:100/219, loss(avg. on 20 batches: 0.03631968349218369
+batch:120/219, loss(avg. on 20 batches: 0.03579814648255706
+batch:140/219, loss(avg. on 20 batches: 0.03595073642209172
+batch:160/219, loss(avg. on 20 batches: 0.03457335960119963
+batch:180/219, loss(avg. on 20 batches: 0.032960421219468114
+batch:200/219, loss(avg. on 20 batches: 0.034344269707798955
+test result: score: 1900.59375, RMSE: 21.748502731323242
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 5
+batch:20/219, loss(avg. on 20 batches: 0.032198181934654714
+batch:40/219, loss(avg. on 20 batches: 0.03003147440031171
+batch:60/219, loss(avg. on 20 batches: 0.02910399194806814
+batch:80/219, loss(avg. on 20 batches: 0.03087826110422611
+batch:100/219, loss(avg. on 20 batches: 0.03001940045505762
+batch:120/219, loss(avg. on 20 batches: 0.028715997003018856
+batch:140/219, loss(avg. on 20 batches: 0.030478847306221725
+batch:160/219, loss(avg. on 20 batches: 0.028515528421849012
+batch:180/219, loss(avg. on 20 batches: 0.027176953479647638
+batch:200/219, loss(avg. on 20 batches: 0.026901474874466657
+test result: score: 960.5560302734375, RMSE: 20.62983512878418
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 6
+batch:20/219, loss(avg. on 20 batches: 0.024229183234274386
+batch:40/219, loss(avg. on 20 batches: 0.025335453264415265
+batch:60/219, loss(avg. on 20 batches: 0.024927157536149026
+batch:80/219, loss(avg. on 20 batches: 0.02411481710150838
+batch:100/219, loss(avg. on 20 batches: 0.024959783907979725
+batch:120/219, loss(avg. on 20 batches: 0.025387721601873636
+batch:140/219, loss(avg. on 20 batches: 0.026188473403453826
+batch:160/219, loss(avg. on 20 batches: 0.02354937745258212
+batch:180/219, loss(avg. on 20 batches: 0.023770492058247328
+batch:200/219, loss(avg. on 20 batches: 0.024591315165162088
+test result: score: 777.0137329101562, RMSE: 20.235939025878906
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 7
+batch:20/219, loss(avg. on 20 batches: 0.02287357924506068
+batch:40/219, loss(avg. on 20 batches: 0.025050538405776025
+batch:60/219, loss(avg. on 20 batches: 0.02119537750259042
+batch:80/219, loss(avg. on 20 batches: 0.02197868088260293
+batch:100/219, loss(avg. on 20 batches: 0.02266584224998951
+batch:120/219, loss(avg. on 20 batches: 0.02154454682022333
+batch:140/219, loss(avg. on 20 batches: 0.020962329860776664
+batch:160/219, loss(avg. on 20 batches: 0.021044962806627154
+batch:180/219, loss(avg. on 20 batches: 0.022488411422818898
+batch:200/219, loss(avg. on 20 batches: 0.019876830093562604
+test result: score: 941.1295776367188, RMSE: 20.113534927368164
+best_RMSE_checkpoints saved successfully!
+Epoch: 8
+batch:20/219, loss(avg. on 20 batches: 0.021425240254029632
+batch:40/219, loss(avg. on 20 batches: 0.021353022009134293
+batch:60/219, loss(avg. on 20 batches: 0.01955502345226705
+batch:80/219, loss(avg. on 20 batches: 0.021814092341810466
+batch:100/219, loss(avg. on 20 batches: 0.02026219367980957
+batch:120/219, loss(avg. on 20 batches: 0.019047259259968995
+batch:140/219, loss(avg. on 20 batches: 0.019969076942652465
+batch:160/219, loss(avg. on 20 batches: 0.0209356555249542
+batch:180/219, loss(avg. on 20 batches: 0.0202350334264338
+batch:200/219, loss(avg. on 20 batches: 0.019853402627632022
+test result: score: 600.827880859375, RMSE: 20.42806625366211
+best_score_checkpoints saved successfully!
+Epoch: 9
+batch:20/219, loss(avg. on 20 batches: 0.01901711281388998
+batch:40/219, loss(avg. on 20 batches: 0.018082675337791444
+batch:60/219, loss(avg. on 20 batches: 0.018459962029010058
+batch:80/219, loss(avg. on 20 batches: 0.01843637484125793
+batch:100/219, loss(avg. on 20 batches: 0.02110521155409515
+batch:120/219, loss(avg. on 20 batches: 0.017132438207045197
+batch:140/219, loss(avg. on 20 batches: 0.018390970770269632
+batch:160/219, loss(avg. on 20 batches: 0.01997599215246737
+batch:180/219, loss(avg. on 20 batches: 0.01802987023256719
+batch:200/219, loss(avg. on 20 batches: 0.020770790195092557
+test result: score: 536.6090087890625, RMSE: 18.95458221435547
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 10
+batch:20/219, loss(avg. on 20 batches: 0.01855374579317868
+batch:40/219, loss(avg. on 20 batches: 0.018441105727106333
+batch:60/219, loss(avg. on 20 batches: 0.016254207864403725
+batch:80/219, loss(avg. on 20 batches: 0.016976907569915056
+batch:100/219, loss(avg. on 20 batches: 0.017548877838999034
+batch:120/219, loss(avg. on 20 batches: 0.01799119100905955
+batch:140/219, loss(avg. on 20 batches: 0.01969586848281324
+batch:160/219, loss(avg. on 20 batches: 0.017063085455447435
+batch:180/219, loss(avg. on 20 batches: 0.0177590754814446
+batch:200/219, loss(avg. on 20 batches: 0.01604285663925111
+test result: score: 443.5090637207031, RMSE: 18.84524917602539
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 11
+batch:20/219, loss(avg. on 20 batches: 0.017790801404044033
+batch:40/219, loss(avg. on 20 batches: 0.016801360249519347
+batch:60/219, loss(avg. on 20 batches: 0.015394659130834043
+batch:80/219, loss(avg. on 20 batches: 0.016165119409561158
+batch:100/219, loss(avg. on 20 batches: 0.017511480301618577
+batch:120/219, loss(avg. on 20 batches: 0.015497799729928374
+batch:140/219, loss(avg. on 20 batches: 0.015372047340497375
+batch:160/219, loss(avg. on 20 batches: 0.016358631337061523
+batch:180/219, loss(avg. on 20 batches: 0.014648650074377656
+batch:200/219, loss(avg. on 20 batches: 0.016015289770439266
+test result: score: 773.8753662109375, RMSE: 23.79435157775879
+Epoch: 12
+batch:20/219, loss(avg. on 20 batches: 0.018099560216069222
+batch:40/219, loss(avg. on 20 batches: 0.015677691577002405
+batch:60/219, loss(avg. on 20 batches: 0.016042323876172306
+batch:80/219, loss(avg. on 20 batches: 0.015130858263000846
+batch:100/219, loss(avg. on 20 batches: 0.014701418066397309
+batch:120/219, loss(avg. on 20 batches: 0.014223988633602858
+batch:140/219, loss(avg. on 20 batches: 0.014183604065328837
+batch:160/219, loss(avg. on 20 batches: 0.014494752883911133
+batch:180/219, loss(avg. on 20 batches: 0.013116258243098856
+batch:200/219, loss(avg. on 20 batches: 0.015239652059972287
+test result: score: 408.14483642578125, RMSE: 17.989585876464844
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 13
+batch:20/219, loss(avg. on 20 batches: 0.01345496941357851
+batch:40/219, loss(avg. on 20 batches: 0.012945695733651518
+batch:60/219, loss(avg. on 20 batches: 0.014063284499570727
+batch:80/219, loss(avg. on 20 batches: 0.014411557978019119
+batch:100/219, loss(avg. on 20 batches: 0.014304606057703496
+batch:120/219, loss(avg. on 20 batches: 0.014954791264608502
+batch:140/219, loss(avg. on 20 batches: 0.014575762627646326
+batch:160/219, loss(avg. on 20 batches: 0.013823429122567177
+batch:180/219, loss(avg. on 20 batches: 0.014379398734308779
+batch:200/219, loss(avg. on 20 batches: 0.013585185073316098
+test result: score: 385.0062561035156, RMSE: 17.47462272644043
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 14
+batch:20/219, loss(avg. on 20 batches: 0.013047251291573048
+batch:40/219, loss(avg. on 20 batches: 0.012930298643186688
+batch:60/219, loss(avg. on 20 batches: 0.01515888583380729
+batch:80/219, loss(avg. on 20 batches: 0.013668251223862171
+batch:100/219, loss(avg. on 20 batches: 0.013061527069658041
+batch:120/219, loss(avg. on 20 batches: 0.013818016974255443
+batch:140/219, loss(avg. on 20 batches: 0.013923198636621236
+batch:160/219, loss(avg. on 20 batches: 0.013433951139450073
+batch:180/219, loss(avg. on 20 batches: 0.01266977486666292
+batch:200/219, loss(avg. on 20 batches: 0.013208164740353823
+test result: score: 510.40972900390625, RMSE: 20.027929306030273
+Epoch: 15
+batch:20/219, loss(avg. on 20 batches: 0.012726567173376679
+batch:40/219, loss(avg. on 20 batches: 0.01354166492819786
+batch:60/219, loss(avg. on 20 batches: 0.013207909511402249
+batch:80/219, loss(avg. on 20 batches: 0.011021752888336778
+batch:100/219, loss(avg. on 20 batches: 0.01393226715736091
+batch:120/219, loss(avg. on 20 batches: 0.012401490984484554
+batch:140/219, loss(avg. on 20 batches: 0.012637216970324517
+batch:160/219, loss(avg. on 20 batches: 0.012798087997362017
+batch:180/219, loss(avg. on 20 batches: 0.012065113126300275
+batch:200/219, loss(avg. on 20 batches: 0.012424682918936013
+test result: score: 460.2525939941406, RMSE: 19.327972412109375
+Epoch: 16
+batch:20/219, loss(avg. on 20 batches: 0.01278594194445759
+batch:40/219, loss(avg. on 20 batches: 0.013686295365914702
+batch:60/219, loss(avg. on 20 batches: 0.011226758547127246
+batch:80/219, loss(avg. on 20 batches: 0.01326963589526713
+batch:100/219, loss(avg. on 20 batches: 0.012003443017601968
+batch:120/219, loss(avg. on 20 batches: 0.012853915663436055
+batch:140/219, loss(avg. on 20 batches: 0.012694965349510312
+batch:160/219, loss(avg. on 20 batches: 0.012827298603951931
+batch:180/219, loss(avg. on 20 batches: 0.011860417714342476
+batch:200/219, loss(avg. on 20 batches: 0.011434266110882163
+test result: score: 372.9588317871094, RMSE: 15.182602882385254
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 17
+batch:20/219, loss(avg. on 20 batches: 0.012471977341920137
+batch:40/219, loss(avg. on 20 batches: 0.011712655541487038
+batch:60/219, loss(avg. on 20 batches: 0.013741288939490915
+batch:80/219, loss(avg. on 20 batches: 0.011926736822351814
+batch:100/219, loss(avg. on 20 batches: 0.011633967352099716
+batch:120/219, loss(avg. on 20 batches: 0.011052941018715502
+batch:140/219, loss(avg. on 20 batches: 0.012185493716970086
+batch:160/219, loss(avg. on 20 batches: 0.01137921861372888
+batch:180/219, loss(avg. on 20 batches: 0.012499975645914674
+batch:200/219, loss(avg. on 20 batches: 0.01129613844677806
+test result: score: 389.3270568847656, RMSE: 17.752483367919922
+Epoch: 18
+batch:20/219, loss(avg. on 20 batches: 0.011957033025100827
+batch:40/219, loss(avg. on 20 batches: 0.012152576865628362
+batch:60/219, loss(avg. on 20 batches: 0.012158298189751804
+batch:80/219, loss(avg. on 20 batches: 0.011720040533691644
+batch:100/219, loss(avg. on 20 batches: 0.011087046889588236
+batch:120/219, loss(avg. on 20 batches: 0.01137564955279231
+batch:140/219, loss(avg. on 20 batches: 0.010484780441038311
+batch:160/219, loss(avg. on 20 batches: 0.012047472270205617
+batch:180/219, loss(avg. on 20 batches: 0.011480896011926233
+batch:200/219, loss(avg. on 20 batches: 0.011039918847382068
+test result: score: 373.5041198730469, RMSE: 17.342159271240234
+Epoch: 19
+batch:20/219, loss(avg. on 20 batches: 0.012639351468533278
+batch:40/219, loss(avg. on 20 batches: 0.012473786994814873
+batch:60/219, loss(avg. on 20 batches: 0.01159110371954739
+batch:80/219, loss(avg. on 20 batches: 0.011930968146771193
+batch:100/219, loss(avg. on 20 batches: 0.010731405299156904
+batch:120/219, loss(avg. on 20 batches: 0.011899493634700775
+batch:140/219, loss(avg. on 20 batches: 0.011622076062485576
+batch:160/219, loss(avg. on 20 batches: 0.011893840623088181
+batch:180/219, loss(avg. on 20 batches: 0.010623948904685676
+batch:200/219, loss(avg. on 20 batches: 0.011838315380737185
+test result: score: 599.6468505859375, RMSE: 21.305112838745117
+Epoch: 20
+batch:20/219, loss(avg. on 20 batches: 0.012705896934494375
+batch:40/219, loss(avg. on 20 batches: 0.011165965162217618
+batch:60/219, loss(avg. on 20 batches: 0.011891424772329628
+batch:80/219, loss(avg. on 20 batches: 0.011086224764585494
+batch:100/219, loss(avg. on 20 batches: 0.010637436481192707
+batch:120/219, loss(avg. on 20 batches: 0.010647059883922338
+batch:140/219, loss(avg. on 20 batches: 0.011435861885547637
+batch:160/219, loss(avg. on 20 batches: 0.011515835160389542
+batch:180/219, loss(avg. on 20 batches: 0.010338837979361415
+batch:200/219, loss(avg. on 20 batches: 0.011306360736489296
+test result: score: 515.1757202148438, RMSE: 20.223499298095703
+Epoch: 21
+batch:20/219, loss(avg. on 20 batches: 0.011241786601021885
+batch:40/219, loss(avg. on 20 batches: 0.010684058931656183
+batch:60/219, loss(avg. on 20 batches: 0.011920749070122838
+batch:80/219, loss(avg. on 20 batches: 0.011015118099749088
+batch:100/219, loss(avg. on 20 batches: 0.010161271062679588
+batch:120/219, loss(avg. on 20 batches: 0.010981929581612348
+batch:140/219, loss(avg. on 20 batches: 0.009708425682038068
+batch:160/219, loss(avg. on 20 batches: 0.009857077058404684
+batch:180/219, loss(avg. on 20 batches: 0.010814547771587968
+batch:200/219, loss(avg. on 20 batches: 0.010283998632803559
+test result: score: 360.2395935058594, RMSE: 16.343368530273438
+best_score_checkpoints saved successfully!
+Epoch: 22
+batch:20/219, loss(avg. on 20 batches: 0.009863185277208687
+batch:40/219, loss(avg. on 20 batches: 0.009539731522090733
+batch:60/219, loss(avg. on 20 batches: 0.010619715694338084
+batch:80/219, loss(avg. on 20 batches: 0.011869177990593015
+batch:100/219, loss(avg. on 20 batches: 0.010879875486716628
+batch:120/219, loss(avg. on 20 batches: 0.01071882804390043
+batch:140/219, loss(avg. on 20 batches: 0.01142430214677006
+batch:160/219, loss(avg. on 20 batches: 0.012186324619688094
+batch:180/219, loss(avg. on 20 batches: 0.011787498882040382
+batch:200/219, loss(avg. on 20 batches: 0.010868060123175382
+test result: score: 322.0505065917969, RMSE: 16.350940704345703
+best_score_checkpoints saved successfully!
+Epoch: 23
+batch:20/219, loss(avg. on 20 batches: 0.011644384311512112
+batch:40/219, loss(avg. on 20 batches: 0.009668980934657156
+batch:60/219, loss(avg. on 20 batches: 0.010996281588450074
+batch:80/219, loss(avg. on 20 batches: 0.010004372033290566
+batch:100/219, loss(avg. on 20 batches: 0.010131698404438793
+batch:120/219, loss(avg. on 20 batches: 0.009705288405530154
+batch:140/219, loss(avg. on 20 batches: 0.010352169023826718
+batch:160/219, loss(avg. on 20 batches: 0.010925311571918428
+batch:180/219, loss(avg. on 20 batches: 0.010381422447972
+batch:200/219, loss(avg. on 20 batches: 0.010345142846927047
+test result: score: 454.2820739746094, RMSE: 19.299259185791016
+Epoch: 24
+batch:20/219, loss(avg. on 20 batches: 0.010234596394002437
+batch:40/219, loss(avg. on 20 batches: 0.010878506163135172
+batch:60/219, loss(avg. on 20 batches: 0.01014050212688744
+batch:80/219, loss(avg. on 20 batches: 0.010872108349576592
+batch:100/219, loss(avg. on 20 batches: 0.01122004131320864
+batch:120/219, loss(avg. on 20 batches: 0.010020406008698047
+batch:140/219, loss(avg. on 20 batches: 0.010237847687676549
+batch:160/219, loss(avg. on 20 batches: 0.01138733928091824
+batch:180/219, loss(avg. on 20 batches: 0.011550331045873464
+batch:200/219, loss(avg. on 20 batches: 0.009563243738375604
+test result: score: 294.8219299316406, RMSE: 15.67484188079834
+best_score_checkpoints saved successfully!
+Epoch: 25
+batch:20/219, loss(avg. on 20 batches: 0.010123163484968245
+batch:40/219, loss(avg. on 20 batches: 0.009670178708620369
+batch:60/219, loss(avg. on 20 batches: 0.009999329666607082
+batch:80/219, loss(avg. on 20 batches: 0.0100559911923483
+batch:100/219, loss(avg. on 20 batches: 0.010207858751527965
+batch:120/219, loss(avg. on 20 batches: 0.010415386455133558
+batch:140/219, loss(avg. on 20 batches: 0.010125692561268806
+batch:160/219, loss(avg. on 20 batches: 0.009769591200165451
+batch:180/219, loss(avg. on 20 batches: 0.009973932476714253
+batch:200/219, loss(avg. on 20 batches: 0.009932539821602405
+test result: score: 303.9493713378906, RMSE: 16.24342918395996
+Epoch: 26
+batch:20/219, loss(avg. on 20 batches: 0.00939674989785999
+batch:40/219, loss(avg. on 20 batches: 0.009984673117287457
+batch:60/219, loss(avg. on 20 batches: 0.008819760382175445
+batch:80/219, loss(avg. on 20 batches: 0.009516731882467867
+batch:100/219, loss(avg. on 20 batches: 0.009296310087665915
+batch:120/219, loss(avg. on 20 batches: 0.010034884163178503
+batch:140/219, loss(avg. on 20 batches: 0.010029385960660876
+batch:160/219, loss(avg. on 20 batches: 0.009915738413110376
+batch:180/219, loss(avg. on 20 batches: 0.009616230730898678
+batch:200/219, loss(avg. on 20 batches: 0.009865368506871164
+test result: score: 465.74737548828125, RMSE: 19.487125396728516
+Epoch: 27
+batch:20/219, loss(avg. on 20 batches: 0.009766678954474629
+batch:40/219, loss(avg. on 20 batches: 0.009115098067559302
+batch:60/219, loss(avg. on 20 batches: 0.009039532020688057
+batch:80/219, loss(avg. on 20 batches: 0.010091646551154554
+batch:100/219, loss(avg. on 20 batches: 0.010403179610148073
+batch:120/219, loss(avg. on 20 batches: 0.00895765908062458
+batch:140/219, loss(avg. on 20 batches: 0.009902553888969124
+batch:160/219, loss(avg. on 20 batches: 0.009016618342138827
+batch:180/219, loss(avg. on 20 batches: 0.009570709010586143
+batch:200/219, loss(avg. on 20 batches: 0.008472684398293495
+test result: score: 303.2464294433594, RMSE: 15.572175025939941
+Epoch: 28
+batch:20/219, loss(avg. on 20 batches: 0.009204224683344364
+batch:40/219, loss(avg. on 20 batches: 0.008679751981981098
+batch:60/219, loss(avg. on 20 batches: 0.009956443263217808
+batch:80/219, loss(avg. on 20 batches: 0.009482723567634821
+batch:100/219, loss(avg. on 20 batches: 0.009120861976407468
+batch:120/219, loss(avg. on 20 batches: 0.00867523173801601
+batch:140/219, loss(avg. on 20 batches: 0.00949351848103106
+batch:160/219, loss(avg. on 20 batches: 0.010074117174372076
+batch:180/219, loss(avg. on 20 batches: 0.00880994596518576
+batch:200/219, loss(avg. on 20 batches: 0.00945023880340159
+test result: score: 288.7437438964844, RMSE: 14.79597282409668
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 29
+batch:20/219, loss(avg. on 20 batches: 0.009204315626993776
+batch:40/219, loss(avg. on 20 batches: 0.009506406262516975
+batch:60/219, loss(avg. on 20 batches: 0.009003781061619521
+batch:80/219, loss(avg. on 20 batches: 0.009576497413218022
+batch:100/219, loss(avg. on 20 batches: 0.009212584397755564
+batch:120/219, loss(avg. on 20 batches: 0.010054398071952164
+batch:140/219, loss(avg. on 20 batches: 0.008604126796126366
+batch:160/219, loss(avg. on 20 batches: 0.008920369786210358
+batch:180/219, loss(avg. on 20 batches: 0.008797303424216807
+batch:200/219, loss(avg. on 20 batches: 0.008833541255444288
+test result: score: 379.4476013183594, RMSE: 17.477449417114258
+Epoch: 30
+batch:20/219, loss(avg. on 20 batches: 0.00982065845746547
+batch:40/219, loss(avg. on 20 batches: 0.00878138376865536
+batch:60/219, loss(avg. on 20 batches: 0.00873111654073
+batch:80/219, loss(avg. on 20 batches: 0.008191941329278052
+batch:100/219, loss(avg. on 20 batches: 0.0077496107900515195
+batch:120/219, loss(avg. on 20 batches: 0.008984833653084934
+batch:140/219, loss(avg. on 20 batches: 0.010808237083256244
+batch:160/219, loss(avg. on 20 batches: 0.010299707227386535
+batch:180/219, loss(avg. on 20 batches: 0.009746478754095733
+batch:200/219, loss(avg. on 20 batches: 0.009361898014321923
+test result: score: 367.611572265625, RMSE: 17.796611785888672
+Epoch: 31
+batch:20/219, loss(avg. on 20 batches: 0.0098655081121251
+batch:40/219, loss(avg. on 20 batches: 0.00869145691394806
+batch:60/219, loss(avg. on 20 batches: 0.009665623679757119
+batch:80/219, loss(avg. on 20 batches: 0.009437594003975392
+batch:100/219, loss(avg. on 20 batches: 0.008838165551424026
+batch:120/219, loss(avg. on 20 batches: 0.00789738071616739
+batch:140/219, loss(avg. on 20 batches: 0.008612345368601382
+batch:160/219, loss(avg. on 20 batches: 0.009271060163155199
+batch:180/219, loss(avg. on 20 batches: 0.009996255533769727
+batch:200/219, loss(avg. on 20 batches: 0.009272820106707514
+test result: score: 260.65521240234375, RMSE: 14.825130462646484
+best_score_checkpoints saved successfully!
+Epoch: 32
+batch:20/219, loss(avg. on 20 batches: 0.00823035284411162
+batch:40/219, loss(avg. on 20 batches: 0.009353030822239816
+batch:60/219, loss(avg. on 20 batches: 0.009075373224914075
+batch:80/219, loss(avg. on 20 batches: 0.008516717795282602
+batch:100/219, loss(avg. on 20 batches: 0.00867317607626319
+batch:120/219, loss(avg. on 20 batches: 0.008349617547355592
+batch:140/219, loss(avg. on 20 batches: 0.008451564679853618
+batch:160/219, loss(avg. on 20 batches: 0.008452857309021056
+batch:180/219, loss(avg. on 20 batches: 0.008158779400400818
+batch:200/219, loss(avg. on 20 batches: 0.009406000259332359
+test result: score: 238.62332153320312, RMSE: 14.442529678344727
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 1
+batch:20/219, loss(avg. on 20 batches: 0.20602688156068324
+batch:40/219, loss(avg. on 20 batches: 0.07397660668939351
+batch:60/219, loss(avg. on 20 batches: 0.058082268387079236
+batch:80/219, loss(avg. on 20 batches: 0.05685182586312294
+batch:100/219, loss(avg. on 20 batches: 0.04941856507211924
+batch:120/219, loss(avg. on 20 batches: 0.045321235246956346
+batch:140/219, loss(avg. on 20 batches: 0.04368794355541468
+batch:160/219, loss(avg. on 20 batches: 0.04252725206315518
+batch:180/219, loss(avg. on 20 batches: 0.040511034056544305
+batch:200/219, loss(avg. on 20 batches: 0.039469287544488904
+test result: score: 16835.96875, RMSE: 28.13779067993164
+Epoch: 2
+batch:20/219, loss(avg. on 20 batches: 0.03894155975431204
+batch:40/219, loss(avg. on 20 batches: 0.03845996474847198
+batch:60/219, loss(avg. on 20 batches: 0.03763773208484054
+batch:80/219, loss(avg. on 20 batches: 0.035852347407490014
+batch:100/219, loss(avg. on 20 batches: 0.03850412555038929
+batch:120/219, loss(avg. on 20 batches: 0.0340969892218709
+batch:140/219, loss(avg. on 20 batches: 0.03453576108440757
+batch:160/219, loss(avg. on 20 batches: 0.036260434240102765
+batch:180/219, loss(avg. on 20 batches: 0.03324133902788162
+batch:200/219, loss(avg. on 20 batches: 0.03392674932256341
+test result: score: 4354.33984375, RMSE: 23.286069869995117
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 3
+batch:20/219, loss(avg. on 20 batches: 0.03043914781883359
+batch:40/219, loss(avg. on 20 batches: 0.0298592621460557
+batch:60/219, loss(avg. on 20 batches: 0.030756002105772496
+batch:80/219, loss(avg. on 20 batches: 0.030426982045173644
+batch:100/219, loss(avg. on 20 batches: 0.028278937004506587
+batch:120/219, loss(avg. on 20 batches: 0.02934103962033987
+batch:140/219, loss(avg. on 20 batches: 0.030324485246092082
+batch:160/219, loss(avg. on 20 batches: 0.02946288576349616
+batch:180/219, loss(avg. on 20 batches: 0.028560686856508255
+batch:200/219, loss(avg. on 20 batches: 0.028811943903565406
+test result: score: 4457.11669921875, RMSE: 23.559114456176758
+Epoch: 4
+batch:20/219, loss(avg. on 20 batches: 0.028665481135249138
+batch:40/219, loss(avg. on 20 batches: 0.02536481786519289
+batch:60/219, loss(avg. on 20 batches: 0.025535780284553767
+batch:80/219, loss(avg. on 20 batches: 0.02564029023051262
+batch:100/219, loss(avg. on 20 batches: 0.02649473799392581
+batch:120/219, loss(avg. on 20 batches: 0.024855131935328244
+batch:140/219, loss(avg. on 20 batches: 0.023877573758363725
+batch:160/219, loss(avg. on 20 batches: 0.023623766656965018
+batch:180/219, loss(avg. on 20 batches: 0.023183642560616134
+batch:200/219, loss(avg. on 20 batches: 0.023000216856598855
+test result: score: 2055.428466796875, RMSE: 20.59852409362793
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 5
+batch:20/219, loss(avg. on 20 batches: 0.02288545952178538
+batch:40/219, loss(avg. on 20 batches: 0.02124203909188509
+batch:60/219, loss(avg. on 20 batches: 0.01896476042456925
+batch:80/219, loss(avg. on 20 batches: 0.01885793642140925
+batch:100/219, loss(avg. on 20 batches: 0.018520447425544262
+batch:120/219, loss(avg. on 20 batches: 0.018937162682414056
+batch:140/219, loss(avg. on 20 batches: 0.01844656285829842
+batch:160/219, loss(avg. on 20 batches: 0.018294570874422787
+batch:180/219, loss(avg. on 20 batches: 0.018780057691037653
+batch:200/219, loss(avg. on 20 batches: 0.016771254921332003
+test result: score: 517.0299072265625, RMSE: 16.36829948425293
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 6
+batch:20/219, loss(avg. on 20 batches: 0.01651694914326072
+batch:40/219, loss(avg. on 20 batches: 0.015460037486627698
+batch:60/219, loss(avg. on 20 batches: 0.0169413638766855
+batch:80/219, loss(avg. on 20 batches: 0.01632084590382874
+batch:100/219, loss(avg. on 20 batches: 0.014691554568707943
+batch:120/219, loss(avg. on 20 batches: 0.01492676166817546
+batch:140/219, loss(avg. on 20 batches: 0.014009576011449098
+batch:160/219, loss(avg. on 20 batches: 0.015409556217491627
+batch:180/219, loss(avg. on 20 batches: 0.015516490302979946
+batch:200/219, loss(avg. on 20 batches: 0.014916796516627074
+test result: score: 824.999755859375, RMSE: 16.595565795898438
+Epoch: 7
+batch:20/219, loss(avg. on 20 batches: 0.012430997984483837
+batch:40/219, loss(avg. on 20 batches: 0.013394346227869391
+batch:60/219, loss(avg. on 20 batches: 0.013614383805543185
+batch:80/219, loss(avg. on 20 batches: 0.013269320270046592
+batch:100/219, loss(avg. on 20 batches: 0.014171704789623618
+batch:120/219, loss(avg. on 20 batches: 0.01304046893492341
+batch:140/219, loss(avg. on 20 batches: 0.01245874660089612
+batch:160/219, loss(avg. on 20 batches: 0.013487978279590607
+batch:180/219, loss(avg. on 20 batches: 0.01309865335933864
+batch:200/219, loss(avg. on 20 batches: 0.01247697272337973
+test result: score: 531.8650512695312, RMSE: 15.4399995803833
+best_RMSE_checkpoints saved successfully!
+Epoch: 8
+batch:20/219, loss(avg. on 20 batches: 0.012339358031749726
+batch:40/219, loss(avg. on 20 batches: 0.012688626628369093
+batch:60/219, loss(avg. on 20 batches: 0.012183334771543741
+batch:80/219, loss(avg. on 20 batches: 0.012158326432108879
+batch:100/219, loss(avg. on 20 batches: 0.011413457849994302
+batch:120/219, loss(avg. on 20 batches: 0.012362296506762505
+batch:140/219, loss(avg. on 20 batches: 0.011947703547775745
+batch:160/219, loss(avg. on 20 batches: 0.011909780837595463
+batch:180/219, loss(avg. on 20 batches: 0.011573259439319371
+batch:200/219, loss(avg. on 20 batches: 0.011905357940122485
+test result: score: 423.01019287109375, RMSE: 15.264592170715332
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 9
+batch:20/219, loss(avg. on 20 batches: 0.012314918357878924
+batch:40/219, loss(avg. on 20 batches: 0.01132294414564967
+batch:60/219, loss(avg. on 20 batches: 0.012327515496872365
+batch:80/219, loss(avg. on 20 batches: 0.011748906457796693
+batch:100/219, loss(avg. on 20 batches: 0.010822758520953357
+batch:120/219, loss(avg. on 20 batches: 0.011221814109012485
+batch:140/219, loss(avg. on 20 batches: 0.01051237981300801
+batch:160/219, loss(avg. on 20 batches: 0.011179263843223453
+batch:180/219, loss(avg. on 20 batches: 0.011144314869306981
+batch:200/219, loss(avg. on 20 batches: 0.010571622825227677
+test result: score: 483.32891845703125, RMSE: 14.902056694030762
+best_RMSE_checkpoints saved successfully!
+Epoch: 10
+batch:20/219, loss(avg. on 20 batches: 0.011908298265188933
+batch:40/219, loss(avg. on 20 batches: 0.010938382474705577
+batch:60/219, loss(avg. on 20 batches: 0.010392869706265628
+batch:80/219, loss(avg. on 20 batches: 0.010582131147384644
+batch:100/219, loss(avg. on 20 batches: 0.00974697251804173
+batch:120/219, loss(avg. on 20 batches: 0.01023181974887848
+batch:140/219, loss(avg. on 20 batches: 0.009733505360782147
+batch:160/219, loss(avg. on 20 batches: 0.010682644415646791
+batch:180/219, loss(avg. on 20 batches: 0.010648793401196599
+batch:200/219, loss(avg. on 20 batches: 0.010845035314559937
+test result: score: 362.1158752441406, RMSE: 14.037721633911133
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 11
+batch:20/219, loss(avg. on 20 batches: 0.010933210607618093
+batch:40/219, loss(avg. on 20 batches: 0.00976183097809553
+batch:60/219, loss(avg. on 20 batches: 0.010504351649433374
+batch:80/219, loss(avg. on 20 batches: 0.009495229087769985
+batch:100/219, loss(avg. on 20 batches: 0.00970833336468786
+batch:120/219, loss(avg. on 20 batches: 0.010687619354575873
+batch:140/219, loss(avg. on 20 batches: 0.010296462220139802
+batch:160/219, loss(avg. on 20 batches: 0.008949144324287773
+batch:180/219, loss(avg. on 20 batches: 0.009985266020521522
+batch:200/219, loss(avg. on 20 batches: 0.010353072732686996
+test result: score: 258.7133483886719, RMSE: 13.266115188598633
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 12
+batch:20/219, loss(avg. on 20 batches: 0.011076270695775747
+batch:40/219, loss(avg. on 20 batches: 0.009730890044011176
+batch:60/219, loss(avg. on 20 batches: 0.009720690548419952
+batch:80/219, loss(avg. on 20 batches: 0.009754919935949147
+batch:100/219, loss(avg. on 20 batches: 0.009393252036534249
+batch:120/219, loss(avg. on 20 batches: 0.01000639160629362
+batch:140/219, loss(avg. on 20 batches: 0.00981933306902647
+batch:160/219, loss(avg. on 20 batches: 0.010289177112281323
+batch:180/219, loss(avg. on 20 batches: 0.010318216565065087
+batch:200/219, loss(avg. on 20 batches: 0.009866748284548522
+test result: score: 370.4820251464844, RMSE: 14.054348945617676
+Epoch: 13
+batch:20/219, loss(avg. on 20 batches: 0.008938982803374528
+batch:40/219, loss(avg. on 20 batches: 0.009236890031024814
+batch:60/219, loss(avg. on 20 batches: 0.008680339134298266
+batch:80/219, loss(avg. on 20 batches: 0.008829505345784128
+batch:100/219, loss(avg. on 20 batches: 0.009242760390043259
+batch:120/219, loss(avg. on 20 batches: 0.009337002178654075
+batch:140/219, loss(avg. on 20 batches: 0.009078657464124262
+batch:160/219, loss(avg. on 20 batches: 0.008777762879617512
+batch:180/219, loss(avg. on 20 batches: 0.009559984784573317
+batch:200/219, loss(avg. on 20 batches: 0.009604350361041725
+test result: score: 471.5994873046875, RMSE: 14.630573272705078
+Epoch: 14
+batch:20/219, loss(avg. on 20 batches: 0.009831601078622043
+batch:40/219, loss(avg. on 20 batches: 0.009104201383888722
+batch:60/219, loss(avg. on 20 batches: 0.009429435525089503
+batch:80/219, loss(avg. on 20 batches: 0.008802109025418758
+batch:100/219, loss(avg. on 20 batches: 0.008993210876360536
+batch:120/219, loss(avg. on 20 batches: 0.00916368244215846
+batch:140/219, loss(avg. on 20 batches: 0.008505501365289093
+batch:160/219, loss(avg. on 20 batches: 0.00898791563231498
+batch:180/219, loss(avg. on 20 batches: 0.008173264050856232
+batch:200/219, loss(avg. on 20 batches: 0.009429129562340677
+test result: score: 339.8531188964844, RMSE: 13.212897300720215
+best_RMSE_checkpoints saved successfully!
+Epoch: 15
+batch:20/219, loss(avg. on 20 batches: 0.00837360427249223
+batch:40/219, loss(avg. on 20 batches: 0.008829342667013407
+batch:60/219, loss(avg. on 20 batches: 0.008603360364213586
+batch:80/219, loss(avg. on 20 batches: 0.008628207794390618
+batch:100/219, loss(avg. on 20 batches: 0.009630975662730634
+batch:120/219, loss(avg. on 20 batches: 0.008220150228589773
+batch:140/219, loss(avg. on 20 batches: 0.008651402033865451
+batch:160/219, loss(avg. on 20 batches: 0.008727409085258842
+batch:180/219, loss(avg. on 20 batches: 0.007953396695666016
+batch:200/219, loss(avg. on 20 batches: 0.008512550010345876
+test result: score: 279.63818359375, RMSE: 12.430780410766602
+best_RMSE_checkpoints saved successfully!
+Epoch: 16
+batch:20/219, loss(avg. on 20 batches: 0.008650818187743426
+batch:40/219, loss(avg. on 20 batches: 0.008499195543117821
+batch:60/219, loss(avg. on 20 batches: 0.008327791304327547
+batch:80/219, loss(avg. on 20 batches: 0.009040019870735706
+batch:100/219, loss(avg. on 20 batches: 0.008255814947187901
+batch:120/219, loss(avg. on 20 batches: 0.008544294745661318
+batch:140/219, loss(avg. on 20 batches: 0.007936682878062129
+batch:160/219, loss(avg. on 20 batches: 0.008164396532811225
+batch:180/219, loss(avg. on 20 batches: 0.008460283069871366
+batch:200/219, loss(avg. on 20 batches: 0.00872469216119498
+test result: score: 319.59710693359375, RMSE: 12.787030220031738
+Epoch: 17
+batch:20/219, loss(avg. on 20 batches: 0.008293640054762363
+batch:40/219, loss(avg. on 20 batches: 0.008922810223884881
+batch:60/219, loss(avg. on 20 batches: 0.008571639517322182
+batch:80/219, loss(avg. on 20 batches: 0.007486986508592963
+batch:100/219, loss(avg. on 20 batches: 0.008881297335028649
+batch:120/219, loss(avg. on 20 batches: 0.008595811203122139
+batch:140/219, loss(avg. on 20 batches: 0.00954682151786983
+batch:160/219, loss(avg. on 20 batches: 0.008600116684101522
+batch:180/219, loss(avg. on 20 batches: 0.008858509059064091
+batch:200/219, loss(avg. on 20 batches: 0.007259318348951637
+test result: score: 325.5784912109375, RMSE: 12.44810676574707
+Epoch: 18
+batch:20/219, loss(avg. on 20 batches: 0.008126778923906387
+batch:40/219, loss(avg. on 20 batches: 0.008653054805472493
+batch:60/219, loss(avg. on 20 batches: 0.00848089016508311
+batch:80/219, loss(avg. on 20 batches: 0.008359420648775994
+batch:100/219, loss(avg. on 20 batches: 0.00827213719021529
+batch:120/219, loss(avg. on 20 batches: 0.007508646813221276
+batch:140/219, loss(avg. on 20 batches: 0.00804833760485053
+batch:160/219, loss(avg. on 20 batches: 0.008147062454372644
+batch:180/219, loss(avg. on 20 batches: 0.007993052364327013
+batch:200/219, loss(avg. on 20 batches: 0.00931254499591887
+test result: score: 402.6248779296875, RMSE: 13.064878463745117
+Epoch: 19
+batch:20/219, loss(avg. on 20 batches: 0.00827398938126862
+batch:40/219, loss(avg. on 20 batches: 0.008213976747356355
+batch:60/219, loss(avg. on 20 batches: 0.008617102820426225
+batch:80/219, loss(avg. on 20 batches: 0.00854404983110726
+batch:100/219, loss(avg. on 20 batches: 0.007758236490190029
+batch:120/219, loss(avg. on 20 batches: 0.00808087782934308
+batch:140/219, loss(avg. on 20 batches: 0.0076310747303068634
+batch:160/219, loss(avg. on 20 batches: 0.007500560767948627
+batch:180/219, loss(avg. on 20 batches: 0.007784900348633527
+batch:200/219, loss(avg. on 20 batches: 0.00840431717224419
+test result: score: 363.77288818359375, RMSE: 12.962455749511719
+Epoch: 20
+batch:20/219, loss(avg. on 20 batches: 0.007113551581278443
+batch:40/219, loss(avg. on 20 batches: 0.0073388976277783515
+batch:60/219, loss(avg. on 20 batches: 0.0077087643789127466
+batch:80/219, loss(avg. on 20 batches: 0.0074905829271301625
+batch:100/219, loss(avg. on 20 batches: 0.00921181330922991
+batch:120/219, loss(avg. on 20 batches: 0.00813504399266094
+batch:140/219, loss(avg. on 20 batches: 0.008750851778313518
+batch:160/219, loss(avg. on 20 batches: 0.007854710519313812
+batch:180/219, loss(avg. on 20 batches: 0.008334755501709878
+batch:200/219, loss(avg. on 20 batches: 0.0073320475639775395
+test result: score: 287.577880859375, RMSE: 12.22352123260498
+best_RMSE_checkpoints saved successfully!
+Epoch: 21
+batch:20/219, loss(avg. on 20 batches: 0.007199759501963854
+batch:40/219, loss(avg. on 20 batches: 0.007997411699034274
+batch:60/219, loss(avg. on 20 batches: 0.007626508455723524
+batch:80/219, loss(avg. on 20 batches: 0.008096692338585853
+batch:100/219, loss(avg. on 20 batches: 0.008114320249296725
+batch:120/219, loss(avg. on 20 batches: 0.008177968231029809
+batch:140/219, loss(avg. on 20 batches: 0.007616593036800623
+batch:160/219, loss(avg. on 20 batches: 0.007326233491767198
+batch:180/219, loss(avg. on 20 batches: 0.007879853411577643
+batch:200/219, loss(avg. on 20 batches: 0.008119139610789717
+test result: score: 258.9678955078125, RMSE: 11.599808692932129
+best_RMSE_checkpoints saved successfully!
+Epoch: 22
+batch:20/219, loss(avg. on 20 batches: 0.008291422505863011
+batch:40/219, loss(avg. on 20 batches: 0.00734476309735328
+batch:60/219, loss(avg. on 20 batches: 0.007994201267138124
+batch:80/219, loss(avg. on 20 batches: 0.007798472349531948
+batch:100/219, loss(avg. on 20 batches: 0.007307596085593104
+batch:120/219, loss(avg. on 20 batches: 0.007569723366759718
+batch:140/219, loss(avg. on 20 batches: 0.00750597445294261
+batch:160/219, loss(avg. on 20 batches: 0.008005711808800697
+batch:180/219, loss(avg. on 20 batches: 0.008591354521922768
+batch:200/219, loss(avg. on 20 batches: 0.007142768066842109
+test result: score: 295.5155029296875, RMSE: 11.784234046936035
+Epoch: 23
+batch:20/219, loss(avg. on 20 batches: 0.007203299831598997
+batch:40/219, loss(avg. on 20 batches: 0.0076847821706905965
+batch:60/219, loss(avg. on 20 batches: 0.0076588612049818035
+batch:80/219, loss(avg. on 20 batches: 0.007514109858311713
+batch:100/219, loss(avg. on 20 batches: 0.007468641456216574
+batch:120/219, loss(avg. on 20 batches: 0.0074023323133587835
+batch:140/219, loss(avg. on 20 batches: 0.007844214281067251
+batch:160/219, loss(avg. on 20 batches: 0.008038935251533985
+batch:180/219, loss(avg. on 20 batches: 0.007105150725692511
+batch:200/219, loss(avg. on 20 batches: 0.008396399160847067
+test result: score: 401.911376953125, RMSE: 13.070306777954102
+Epoch: 24
+batch:20/219, loss(avg. on 20 batches: 0.007072713365778327
+batch:40/219, loss(avg. on 20 batches: 0.0071961653884500265
+batch:60/219, loss(avg. on 20 batches: 0.007240121974609793
+batch:80/219, loss(avg. on 20 batches: 0.008022883650846779
+batch:100/219, loss(avg. on 20 batches: 0.007950945547781885
+batch:120/219, loss(avg. on 20 batches: 0.0077416072599589825
+batch:140/219, loss(avg. on 20 batches: 0.007392999180592596
+batch:160/219, loss(avg. on 20 batches: 0.007270155590958893
+batch:180/219, loss(avg. on 20 batches: 0.008081733481958508
+batch:200/219, loss(avg. on 20 batches: 0.0076362401712685825
+test result: score: 325.3714599609375, RMSE: 12.254338264465332
+Epoch: 25
+batch:20/219, loss(avg. on 20 batches: 0.007549752714112401
+batch:40/219, loss(avg. on 20 batches: 0.007310817437246442
+batch:60/219, loss(avg. on 20 batches: 0.006904294586274773
+batch:80/219, loss(avg. on 20 batches: 0.007755576097406447
+batch:100/219, loss(avg. on 20 batches: 0.007229575980454683
+batch:120/219, loss(avg. on 20 batches: 0.007545144017785788
+batch:140/219, loss(avg. on 20 batches: 0.007328801229596138
+batch:160/219, loss(avg. on 20 batches: 0.007004354987293482
+batch:180/219, loss(avg. on 20 batches: 0.007170326774939895
+batch:200/219, loss(avg. on 20 batches: 0.007256441004574299
+test result: score: 321.0247497558594, RMSE: 12.114072799682617
+Epoch: 26
+batch:20/219, loss(avg. on 20 batches: 0.007064083497971297
+batch:40/219, loss(avg. on 20 batches: 0.00729090222157538
+batch:60/219, loss(avg. on 20 batches: 0.0074209901737049225
+batch:80/219, loss(avg. on 20 batches: 0.007140112714841962
+batch:100/219, loss(avg. on 20 batches: 0.007184706954285502
+batch:120/219, loss(avg. on 20 batches: 0.007093838881701231
+batch:140/219, loss(avg. on 20 batches: 0.008091119932942092
+batch:160/219, loss(avg. on 20 batches: 0.007605950627475977
+batch:180/219, loss(avg. on 20 batches: 0.0074057643301785
+batch:200/219, loss(avg. on 20 batches: 0.006263481080532074
+test result: score: 272.066650390625, RMSE: 11.963414192199707
+Epoch: 27
+batch:20/219, loss(avg. on 20 batches: 0.007162866368889809
+batch:40/219, loss(avg. on 20 batches: 0.007805930334143341
+batch:60/219, loss(avg. on 20 batches: 0.00743846814148128
+batch:80/219, loss(avg. on 20 batches: 0.0071934991050511595
+batch:100/219, loss(avg. on 20 batches: 0.007652861345559358
+batch:120/219, loss(avg. on 20 batches: 0.007755537889897824
+batch:140/219, loss(avg. on 20 batches: 0.007308749249204993
+batch:160/219, loss(avg. on 20 batches: 0.007674705423414707
+batch:180/219, loss(avg. on 20 batches: 0.007217554934322834
+batch:200/219, loss(avg. on 20 batches: 0.006969111179932952
+test result: score: 396.0231628417969, RMSE: 12.642895698547363
+Epoch: 28
+batch:20/219, loss(avg. on 20 batches: 0.008115242724306882
+batch:40/219, loss(avg. on 20 batches: 0.007014493737369776
+batch:60/219, loss(avg. on 20 batches: 0.007026515458710492
+batch:80/219, loss(avg. on 20 batches: 0.006912101386114955
+batch:100/219, loss(avg. on 20 batches: 0.00772505619097501
+batch:120/219, loss(avg. on 20 batches: 0.007142808777280152
+batch:140/219, loss(avg. on 20 batches: 0.00753748556599021
+batch:160/219, loss(avg. on 20 batches: 0.007914801710285246
+batch:180/219, loss(avg. on 20 batches: 0.006799722113646567
+batch:200/219, loss(avg. on 20 batches: 0.007349811843596399
+test result: score: 400.62554931640625, RMSE: 12.652387619018555
+Epoch: 29
+batch:20/219, loss(avg. on 20 batches: 0.007152114610653371
+batch:40/219, loss(avg. on 20 batches: 0.007236915687099099
+batch:60/219, loss(avg. on 20 batches: 0.0076790180057287214
+batch:80/219, loss(avg. on 20 batches: 0.007597841438837349
+batch:100/219, loss(avg. on 20 batches: 0.007303800038062036
+batch:120/219, loss(avg. on 20 batches: 0.007536029606126249
+batch:140/219, loss(avg. on 20 batches: 0.006934926065150648
+batch:160/219, loss(avg. on 20 batches: 0.006075606076046824
+batch:180/219, loss(avg. on 20 batches: 0.007166758831590414
+batch:200/219, loss(avg. on 20 batches: 0.006844787090085447
+test result: score: 250.85855102539062, RMSE: 11.540118217468262
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 30
+batch:20/219, loss(avg. on 20 batches: 0.007192566711455584
+batch:40/219, loss(avg. on 20 batches: 0.006619211821816862
+batch:60/219, loss(avg. on 20 batches: 0.006905928580090403
+batch:80/219, loss(avg. on 20 batches: 0.0075008728541433815
+batch:100/219, loss(avg. on 20 batches: 0.006647018296644091
+batch:120/219, loss(avg. on 20 batches: 0.0075210353126749395
+batch:140/219, loss(avg. on 20 batches: 0.007217996683903038
+batch:160/219, loss(avg. on 20 batches: 0.0069658074527978895
+batch:180/219, loss(avg. on 20 batches: 0.006610309891402722
+batch:200/219, loss(avg. on 20 batches: 0.007076140260323882
+test result: score: 290.18896484375, RMSE: 11.780743598937988
+Epoch: 31
+batch:20/219, loss(avg. on 20 batches: 0.007515297690406442
+batch:40/219, loss(avg. on 20 batches: 0.0070974716218188405
+batch:60/219, loss(avg. on 20 batches: 0.0068590656388551
+batch:80/219, loss(avg. on 20 batches: 0.007147325505502522
+batch:100/219, loss(avg. on 20 batches: 0.00658795356284827
+batch:120/219, loss(avg. on 20 batches: 0.007299014437012375
+batch:140/219, loss(avg. on 20 batches: 0.0069499105447903275
+batch:160/219, loss(avg. on 20 batches: 0.006797296134755016
+batch:180/219, loss(avg. on 20 batches: 0.007124242326244712
+batch:200/219, loss(avg. on 20 batches: 0.006672437326051295
+test result: score: 277.8898010253906, RMSE: 11.558199882507324
+Epoch: 32
+batch:20/219, loss(avg. on 20 batches: 0.006903151050209999
+batch:40/219, loss(avg. on 20 batches: 0.006563931982964277
+batch:60/219, loss(avg. on 20 batches: 0.007457876950502396
+batch:80/219, loss(avg. on 20 batches: 0.006358462735079229
+batch:100/219, loss(avg. on 20 batches: 0.00711760672274977
+batch:120/219, loss(avg. on 20 batches: 0.007533099595457315
+batch:140/219, loss(avg. on 20 batches: 0.007128604315221309
+batch:160/219, loss(avg. on 20 batches: 0.0071672714781016115
+batch:180/219, loss(avg. on 20 batches: 0.00618848770391196
+batch:200/219, loss(avg. on 20 batches: 0.006693582609295845
+test result: score: 304.51690673828125, RMSE: 11.940375328063965
+Epoch: 1
+batch:20/219, loss(avg. on 20 batches: 0.48126373440027237
+batch:40/219, loss(avg. on 20 batches: 0.259082493185997
+batch:60/219, loss(avg. on 20 batches: 0.07859049271792173
+batch:80/219, loss(avg. on 20 batches: 0.06433470472693444
+batch:100/219, loss(avg. on 20 batches: 0.058832808211445806
+batch:120/219, loss(avg. on 20 batches: 0.05371090658009052
+batch:140/219, loss(avg. on 20 batches: 0.05358323026448488
+batch:160/219, loss(avg. on 20 batches: 0.04739820268005133
+batch:180/219, loss(avg. on 20 batches: 0.046294120512902735
+batch:200/219, loss(avg. on 20 batches: 0.04433177784085274
+test result: score: 4929.78515625, RMSE: 23.865434646606445
+Epoch: 2
+batch:20/219, loss(avg. on 20 batches: 0.044509594514966014
+batch:40/219, loss(avg. on 20 batches: 0.044904534332454206
+batch:60/219, loss(avg. on 20 batches: 0.041513758897781375
+batch:80/219, loss(avg. on 20 batches: 0.04115358684211969
+batch:100/219, loss(avg. on 20 batches: 0.03924969881772995
+batch:120/219, loss(avg. on 20 batches: 0.04021555688232183
+batch:140/219, loss(avg. on 20 batches: 0.03885148344561458
+batch:160/219, loss(avg. on 20 batches: 0.04015136267989874
+batch:180/219, loss(avg. on 20 batches: 0.039601017534732816
+batch:200/219, loss(avg. on 20 batches: 0.0374243825674057
+test result: score: 2257.8720703125, RMSE: 22.3342227935791
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 3
+batch:20/219, loss(avg. on 20 batches: 0.03787131644785404
+batch:40/219, loss(avg. on 20 batches: 0.037926290184259415
+batch:60/219, loss(avg. on 20 batches: 0.038863199204206465
+batch:80/219, loss(avg. on 20 batches: 0.03720922106876969
+batch:100/219, loss(avg. on 20 batches: 0.036952841375023124
+batch:120/219, loss(avg. on 20 batches: 0.034958506282418964
+batch:140/219, loss(avg. on 20 batches: 0.0362250953912735
+batch:160/219, loss(avg. on 20 batches: 0.03577549746260047
+batch:180/219, loss(avg. on 20 batches: 0.03486795490607619
+batch:200/219, loss(avg. on 20 batches: 0.03645427813753486
+test result: score: 1854.9212646484375, RMSE: 22.132177352905273
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 4
+batch:20/219, loss(avg. on 20 batches: 0.03544990792870521
+batch:40/219, loss(avg. on 20 batches: 0.034532210975885394
+batch:60/219, loss(avg. on 20 batches: 0.034470008220523596
+batch:80/219, loss(avg. on 20 batches: 0.03587830793112516
+batch:100/219, loss(avg. on 20 batches: 0.03556155413389206
+batch:120/219, loss(avg. on 20 batches: 0.0355712522752583
+batch:140/219, loss(avg. on 20 batches: 0.03317992761731148
+batch:160/219, loss(avg. on 20 batches: 0.03656402146443725
+batch:180/219, loss(avg. on 20 batches: 0.03455115351825953
+batch:200/219, loss(avg. on 20 batches: 0.03556162286549806
+test result: score: 2020.4609375, RMSE: 22.1960391998291
+Epoch: 5
+batch:20/219, loss(avg. on 20 batches: 0.035825321171432736
+batch:40/219, loss(avg. on 20 batches: 0.03366643264889717
+batch:60/219, loss(avg. on 20 batches: 0.03432289715856314
+batch:80/219, loss(avg. on 20 batches: 0.03495590034872294
+batch:100/219, loss(avg. on 20 batches: 0.03529719226062298
+batch:120/219, loss(avg. on 20 batches: 0.03511682460084557
+batch:140/219, loss(avg. on 20 batches: 0.0343644255772233
+batch:160/219, loss(avg. on 20 batches: 0.03417742475867271
+batch:180/219, loss(avg. on 20 batches: 0.033164343889802696
+batch:200/219, loss(avg. on 20 batches: 0.03410876812413335
+test result: score: 1683.7412109375, RMSE: 21.912071228027344
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 6
+batch:20/219, loss(avg. on 20 batches: 0.033790419716387986
+batch:40/219, loss(avg. on 20 batches: 0.03504615547135472
+batch:60/219, loss(avg. on 20 batches: 0.032561623584479095
+batch:80/219, loss(avg. on 20 batches: 0.03298994582146406
+batch:100/219, loss(avg. on 20 batches: 0.03356152167543769
+batch:120/219, loss(avg. on 20 batches: 0.03354765381664038
+batch:140/219, loss(avg. on 20 batches: 0.03174332343041897
+batch:160/219, loss(avg. on 20 batches: 0.03346734363585711
+batch:180/219, loss(avg. on 20 batches: 0.034178557246923445
+batch:200/219, loss(avg. on 20 batches: 0.03237148262560367
+test result: score: 1433.08349609375, RMSE: 21.809412002563477
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 7
+batch:20/219, loss(avg. on 20 batches: 0.03285588538274169
+batch:40/219, loss(avg. on 20 batches: 0.0324004678055644
+batch:60/219, loss(avg. on 20 batches: 0.03085640175268054
+batch:80/219, loss(avg. on 20 batches: 0.03190785758197308
+batch:100/219, loss(avg. on 20 batches: 0.030871994607150555
+batch:120/219, loss(avg. on 20 batches: 0.029198534041643142
+batch:140/219, loss(avg. on 20 batches: 0.02908236626535654
+batch:160/219, loss(avg. on 20 batches: 0.029240643326193094
+batch:180/219, loss(avg. on 20 batches: 0.028174456860870122
+batch:200/219, loss(avg. on 20 batches: 0.025242200028151272
+test result: score: 1176.5618896484375, RMSE: 20.515775680541992
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 8
+batch:20/219, loss(avg. on 20 batches: 0.02577077941969037
+batch:40/219, loss(avg. on 20 batches: 0.024932205397635698
+batch:60/219, loss(avg. on 20 batches: 0.023586345836520195
+batch:80/219, loss(avg. on 20 batches: 0.023488882277160884
+batch:100/219, loss(avg. on 20 batches: 0.023236573580652474
+batch:120/219, loss(avg. on 20 batches: 0.023180332314223052
+batch:140/219, loss(avg. on 20 batches: 0.02406382104381919
+batch:160/219, loss(avg. on 20 batches: 0.026618429552763702
+batch:180/219, loss(avg. on 20 batches: 0.02294839508831501
+batch:200/219, loss(avg. on 20 batches: 0.01975497817620635
+test result: score: 752.5291137695312, RMSE: 20.053232192993164
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 9
+batch:20/219, loss(avg. on 20 batches: 0.02150449203327298
+batch:40/219, loss(avg. on 20 batches: 0.021687917597591876
+batch:60/219, loss(avg. on 20 batches: 0.021777699375525116
+batch:80/219, loss(avg. on 20 batches: 0.024374306667596102
+batch:100/219, loss(avg. on 20 batches: 0.022333655040711164
+batch:120/219, loss(avg. on 20 batches: 0.02186669548973441
+batch:140/219, loss(avg. on 20 batches: 0.021180545259267092
+batch:160/219, loss(avg. on 20 batches: 0.021873166877776386
+batch:180/219, loss(avg. on 20 batches: 0.02098317863419652
+batch:200/219, loss(avg. on 20 batches: 0.02193640870973468
+test result: score: 741.1682739257812, RMSE: 20.061668395996094
+best_score_checkpoints saved successfully!
+Epoch: 10
+batch:20/219, loss(avg. on 20 batches: 0.020988413644954563
+batch:40/219, loss(avg. on 20 batches: 0.020114545384421943
+batch:60/219, loss(avg. on 20 batches: 0.021193092269822956
+batch:80/219, loss(avg. on 20 batches: 0.019689683709293603
+batch:100/219, loss(avg. on 20 batches: 0.020566741935908794
+batch:120/219, loss(avg. on 20 batches: 0.0217034125700593
+batch:140/219, loss(avg. on 20 batches: 0.022473707469180225
+batch:160/219, loss(avg. on 20 batches: 0.020915275439620018
+batch:180/219, loss(avg. on 20 batches: 0.0207142751198262
+batch:200/219, loss(avg. on 20 batches: 0.020444081956520678
+test result: score: 689.6046142578125, RMSE: 20.389873504638672
+best_score_checkpoints saved successfully!
+Epoch: 11
+batch:20/219, loss(avg. on 20 batches: 0.020889452053233983
+batch:40/219, loss(avg. on 20 batches: 0.02059190678410232
+batch:60/219, loss(avg. on 20 batches: 0.020392287662252782
+batch:80/219, loss(avg. on 20 batches: 0.02052316623739898
+batch:100/219, loss(avg. on 20 batches: 0.020280971890315413
+batch:120/219, loss(avg. on 20 batches: 0.02007678714580834
+batch:140/219, loss(avg. on 20 batches: 0.020382706727832555
+batch:160/219, loss(avg. on 20 batches: 0.019136019796133042
+batch:180/219, loss(avg. on 20 batches: 0.01929775457829237
+batch:200/219, loss(avg. on 20 batches: 0.01969098481349647
+test result: score: 633.1820068359375, RMSE: 19.747358322143555
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 12
+batch:20/219, loss(avg. on 20 batches: 0.02009124178439379
+batch:40/219, loss(avg. on 20 batches: 0.02005816577002406
+batch:60/219, loss(avg. on 20 batches: 0.018599569844082
+batch:80/219, loss(avg. on 20 batches: 0.01767936903052032
+batch:100/219, loss(avg. on 20 batches: 0.018194133415818214
+batch:120/219, loss(avg. on 20 batches: 0.019496863801032306
+batch:140/219, loss(avg. on 20 batches: 0.019333636807277798
+batch:160/219, loss(avg. on 20 batches: 0.017092990037053824
+batch:180/219, loss(avg. on 20 batches: 0.01734545803628862
+batch:200/219, loss(avg. on 20 batches: 0.018421564204618334
+test result: score: 569.9586181640625, RMSE: 20.43778419494629
+best_score_checkpoints saved successfully!
+Epoch: 13
+batch:20/219, loss(avg. on 20 batches: 0.016739989072084425
+batch:40/219, loss(avg. on 20 batches: 0.01678581922315061
+batch:60/219, loss(avg. on 20 batches: 0.01749130436219275
+batch:80/219, loss(avg. on 20 batches: 0.017293774429708718
+batch:100/219, loss(avg. on 20 batches: 0.0180500699672848
+batch:120/219, loss(avg. on 20 batches: 0.015479439822956919
+batch:140/219, loss(avg. on 20 batches: 0.01668905452825129
+batch:160/219, loss(avg. on 20 batches: 0.015143457474187017
+batch:180/219, loss(avg. on 20 batches: 0.014881225069984794
+batch:200/219, loss(avg. on 20 batches: 0.015622564498335123
+test result: score: 448.8447265625, RMSE: 17.29134750366211
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 14
+batch:20/219, loss(avg. on 20 batches: 0.01580280913040042
+batch:40/219, loss(avg. on 20 batches: 0.015364991594105959
+batch:60/219, loss(avg. on 20 batches: 0.015266001876443624
+batch:80/219, loss(avg. on 20 batches: 0.014613488595932722
+batch:100/219, loss(avg. on 20 batches: 0.0161330989561975
+batch:120/219, loss(avg. on 20 batches: 0.014119152445346117
+batch:140/219, loss(avg. on 20 batches: 0.013949782075360417
+batch:160/219, loss(avg. on 20 batches: 0.014249523309990764
+batch:180/219, loss(avg. on 20 batches: 0.015263365115970373
+batch:200/219, loss(avg. on 20 batches: 0.014869892550632358
+test result: score: 430.2326354980469, RMSE: 18.564395904541016
+best_score_checkpoints saved successfully!
+Epoch: 15
+batch:20/219, loss(avg. on 20 batches: 0.01576501103118062
+batch:40/219, loss(avg. on 20 batches: 0.015102161560207605
+batch:60/219, loss(avg. on 20 batches: 0.014243941800668836
+batch:80/219, loss(avg. on 20 batches: 0.013437394006177782
+batch:100/219, loss(avg. on 20 batches: 0.013902640948072077
+batch:120/219, loss(avg. on 20 batches: 0.014842181047424675
+batch:140/219, loss(avg. on 20 batches: 0.014315974432975054
+batch:160/219, loss(avg. on 20 batches: 0.012817088514566422
+batch:180/219, loss(avg. on 20 batches: 0.01516517107374966
+batch:200/219, loss(avg. on 20 batches: 0.013904972840100527
+test result: score: 420.525634765625, RMSE: 18.230241775512695
+best_score_checkpoints saved successfully!
+Epoch: 16
+batch:20/219, loss(avg. on 20 batches: 0.012568503571674227
+batch:40/219, loss(avg. on 20 batches: 0.013276097131893039
+batch:60/219, loss(avg. on 20 batches: 0.012693183124065399
+batch:80/219, loss(avg. on 20 batches: 0.013226809212937951
+batch:100/219, loss(avg. on 20 batches: 0.014366218820214272
+batch:120/219, loss(avg. on 20 batches: 0.014259269973263145
+batch:140/219, loss(avg. on 20 batches: 0.01326641533523798
+batch:160/219, loss(avg. on 20 batches: 0.012565033743157983
+batch:180/219, loss(avg. on 20 batches: 0.013879840355366468
+batch:200/219, loss(avg. on 20 batches: 0.014371725358068943
+test result: score: 379.10546875, RMSE: 17.198183059692383
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 17
+batch:20/219, loss(avg. on 20 batches: 0.011892693676054477
+batch:40/219, loss(avg. on 20 batches: 0.013657106412574649
+batch:60/219, loss(avg. on 20 batches: 0.014018627488985658
+batch:80/219, loss(avg. on 20 batches: 0.012233832920901477
+batch:100/219, loss(avg. on 20 batches: 0.012300258642062545
+batch:120/219, loss(avg. on 20 batches: 0.012961487751454115
+batch:140/219, loss(avg. on 20 batches: 0.012451849086210132
+batch:160/219, loss(avg. on 20 batches: 0.012791871232911945
+batch:180/219, loss(avg. on 20 batches: 0.01269778199493885
+batch:200/219, loss(avg. on 20 batches: 0.012956051900982857
+test result: score: 396.35760498046875, RMSE: 17.541973114013672
+Epoch: 18
+batch:20/219, loss(avg. on 20 batches: 0.011800343822687864
+batch:40/219, loss(avg. on 20 batches: 0.012429948197677732
+batch:60/219, loss(avg. on 20 batches: 0.013076442060992122
+batch:80/219, loss(avg. on 20 batches: 0.012457276205532252
+batch:100/219, loss(avg. on 20 batches: 0.013509285496547818
+batch:120/219, loss(avg. on 20 batches: 0.012626839987933635
+batch:140/219, loss(avg. on 20 batches: 0.013247097469866275
+batch:160/219, loss(avg. on 20 batches: 0.011905535077676176
+batch:180/219, loss(avg. on 20 batches: 0.013047822657972575
+batch:200/219, loss(avg. on 20 batches: 0.011720698140561581
+test result: score: 369.5202941894531, RMSE: 16.922088623046875
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 19
+batch:20/219, loss(avg. on 20 batches: 0.011551372753456236
+batch:40/219, loss(avg. on 20 batches: 0.012114130123518408
+batch:60/219, loss(avg. on 20 batches: 0.011535784089937806
+batch:80/219, loss(avg. on 20 batches: 0.01303602266125381
+batch:100/219, loss(avg. on 20 batches: 0.01264116014353931
+batch:120/219, loss(avg. on 20 batches: 0.012140762363560497
+batch:140/219, loss(avg. on 20 batches: 0.012068755086511373
+batch:160/219, loss(avg. on 20 batches: 0.01162059181369841
+batch:180/219, loss(avg. on 20 batches: 0.012646916974335908
+batch:200/219, loss(avg. on 20 batches: 0.012657866394147278
+test result: score: 420.893798828125, RMSE: 18.34327507019043
+Epoch: 20
+batch:20/219, loss(avg. on 20 batches: 0.013497850531712175
+batch:40/219, loss(avg. on 20 batches: 0.013182266522198916
+batch:60/219, loss(avg. on 20 batches: 0.011433179932646453
+batch:80/219, loss(avg. on 20 batches: 0.01267953123897314
+batch:100/219, loss(avg. on 20 batches: 0.012141286628320813
+batch:120/219, loss(avg. on 20 batches: 0.01126476728823036
+batch:140/219, loss(avg. on 20 batches: 0.0123036518227309
+batch:160/219, loss(avg. on 20 batches: 0.011712370906025171
+batch:180/219, loss(avg. on 20 batches: 0.011082970187999308
+batch:200/219, loss(avg. on 20 batches: 0.011810044478625058
+test result: score: 360.3355712890625, RMSE: 15.788270950317383
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 21
+batch:20/219, loss(avg. on 20 batches: 0.012073624320328236
+batch:40/219, loss(avg. on 20 batches: 0.011564990133047104
+batch:60/219, loss(avg. on 20 batches: 0.010507318726740777
+batch:80/219, loss(avg. on 20 batches: 0.010752978781238199
+batch:100/219, loss(avg. on 20 batches: 0.011063843220472335
+batch:120/219, loss(avg. on 20 batches: 0.011671338020823896
+batch:140/219, loss(avg. on 20 batches: 0.011510312464088202
+batch:160/219, loss(avg. on 20 batches: 0.013549502892419695
+batch:180/219, loss(avg. on 20 batches: 0.01116528157144785
+batch:200/219, loss(avg. on 20 batches: 0.011378138652071356
+test result: score: 350.6973876953125, RMSE: 16.144617080688477
+best_score_checkpoints saved successfully!
+Epoch: 22
+batch:20/219, loss(avg. on 20 batches: 0.010892750089988112
+batch:40/219, loss(avg. on 20 batches: 0.011196579085662961
+batch:60/219, loss(avg. on 20 batches: 0.01138867442496121
+batch:80/219, loss(avg. on 20 batches: 0.011654519964940846
+batch:100/219, loss(avg. on 20 batches: 0.011710497597232462
+batch:120/219, loss(avg. on 20 batches: 0.011372196837328374
+batch:140/219, loss(avg. on 20 batches: 0.010778900422155856
+batch:160/219, loss(avg. on 20 batches: 0.010681252833455801
+batch:180/219, loss(avg. on 20 batches: 0.010399606358259917
+batch:200/219, loss(avg. on 20 batches: 0.011653582798317075
+test result: score: 353.24066162109375, RMSE: 16.47732925415039
+Epoch: 23
+batch:20/219, loss(avg. on 20 batches: 0.011082718125544488
+batch:40/219, loss(avg. on 20 batches: 0.010557004320435225
+batch:60/219, loss(avg. on 20 batches: 0.010663518588989973
+batch:80/219, loss(avg. on 20 batches: 0.011190199269913137
+batch:100/219, loss(avg. on 20 batches: 0.011007477040402591
+batch:120/219, loss(avg. on 20 batches: 0.010530223068781198
+batch:140/219, loss(avg. on 20 batches: 0.01052113282494247
+batch:160/219, loss(avg. on 20 batches: 0.01051408313214779
+batch:180/219, loss(avg. on 20 batches: 0.010996754304505885
+batch:200/219, loss(avg. on 20 batches: 0.011497392319142818
+test result: score: 391.3344421386719, RMSE: 17.589317321777344
+Epoch: 24
+batch:20/219, loss(avg. on 20 batches: 0.009773422474972903
+batch:40/219, loss(avg. on 20 batches: 0.010078880609944463
+batch:60/219, loss(avg. on 20 batches: 0.010757810482755304
+batch:80/219, loss(avg. on 20 batches: 0.011089824419468642
+batch:100/219, loss(avg. on 20 batches: 0.01136229489929974
+batch:120/219, loss(avg. on 20 batches: 0.011365580675192177
+batch:140/219, loss(avg. on 20 batches: 0.010696701123379171
+batch:160/219, loss(avg. on 20 batches: 0.010825158888474106
+batch:180/219, loss(avg. on 20 batches: 0.009640402230434119
+batch:200/219, loss(avg. on 20 batches: 0.010448037646710873
+test result: score: 368.2379150390625, RMSE: 17.179964065551758
+Epoch: 25
+batch:20/219, loss(avg. on 20 batches: 0.010264350450597703
+batch:40/219, loss(avg. on 20 batches: 0.010793867404572666
+batch:60/219, loss(avg. on 20 batches: 0.009464226057752967
+batch:80/219, loss(avg. on 20 batches: 0.010522088222205638
+batch:100/219, loss(avg. on 20 batches: 0.01104356897994876
+batch:120/219, loss(avg. on 20 batches: 0.010212823608890175
+batch:140/219, loss(avg. on 20 batches: 0.011032083677127958
+batch:160/219, loss(avg. on 20 batches: 0.01122109463904053
+batch:180/219, loss(avg. on 20 batches: 0.011480543576180936
+batch:200/219, loss(avg. on 20 batches: 0.010717508802190422
+test result: score: 333.08380126953125, RMSE: 15.081147193908691
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 26
+batch:20/219, loss(avg. on 20 batches: 0.010616394109092653
+batch:40/219, loss(avg. on 20 batches: 0.010330102476291358
+batch:60/219, loss(avg. on 20 batches: 0.010662486497312784
+batch:80/219, loss(avg. on 20 batches: 0.00999566491227597
+batch:100/219, loss(avg. on 20 batches: 0.009944772790186107
+batch:120/219, loss(avg. on 20 batches: 0.010354416351765395
+batch:140/219, loss(avg. on 20 batches: 0.009921176033094526
+batch:160/219, loss(avg. on 20 batches: 0.009816493233665824
+batch:180/219, loss(avg. on 20 batches: 0.010152112599462271
+batch:200/219, loss(avg. on 20 batches: 0.010685287299565971
+test result: score: 396.7906188964844, RMSE: 17.850881576538086
+Epoch: 27
+batch:20/219, loss(avg. on 20 batches: 0.009687084844335914
+batch:40/219, loss(avg. on 20 batches: 0.009908445132896303
+batch:60/219, loss(avg. on 20 batches: 0.010184504906646907
+batch:80/219, loss(avg. on 20 batches: 0.009179138275794686
+batch:100/219, loss(avg. on 20 batches: 0.010708262398838996
+batch:120/219, loss(avg. on 20 batches: 0.009737251978367566
+batch:140/219, loss(avg. on 20 batches: 0.009428562060929836
+batch:160/219, loss(avg. on 20 batches: 0.009905421757139266
+batch:180/219, loss(avg. on 20 batches: 0.010145816043950618
+batch:200/219, loss(avg. on 20 batches: 0.009892244054935873
+test result: score: 425.2662353515625, RMSE: 18.446632385253906
+Epoch: 28
+batch:20/219, loss(avg. on 20 batches: 0.010717700095847249
+batch:40/219, loss(avg. on 20 batches: 0.009557304321788251
+batch:60/219, loss(avg. on 20 batches: 0.009564384794794023
+batch:80/219, loss(avg. on 20 batches: 0.01008191097062081
+batch:100/219, loss(avg. on 20 batches: 0.010375425638630986
+batch:120/219, loss(avg. on 20 batches: 0.009662225982174278
+batch:140/219, loss(avg. on 20 batches: 0.00983398761600256
+batch:160/219, loss(avg. on 20 batches: 0.010303123062476516
+batch:180/219, loss(avg. on 20 batches: 0.009973766235634684
+batch:200/219, loss(avg. on 20 batches: 0.010418776492588221
+test result: score: 330.60516357421875, RMSE: 16.17350196838379
+best_score_checkpoints saved successfully!
+Epoch: 29
+batch:20/219, loss(avg. on 20 batches: 0.010217925673350692
+batch:40/219, loss(avg. on 20 batches: 0.00957123509142548
+batch:60/219, loss(avg. on 20 batches: 0.009631980140693486
+batch:80/219, loss(avg. on 20 batches: 0.009591253520920873
+batch:100/219, loss(avg. on 20 batches: 0.009570376062765718
+batch:120/219, loss(avg. on 20 batches: 0.009888328542001546
+batch:140/219, loss(avg. on 20 batches: 0.01036580498330295
+batch:160/219, loss(avg. on 20 batches: 0.010222839144989847
+batch:180/219, loss(avg. on 20 batches: 0.009466740721836685
+batch:200/219, loss(avg. on 20 batches: 0.009379514143802226
+test result: score: 391.9399719238281, RMSE: 17.88115882873535
+Epoch: 30
+batch:20/219, loss(avg. on 20 batches: 0.008792541571892798
+batch:40/219, loss(avg. on 20 batches: 0.009223747765645385
+batch:60/219, loss(avg. on 20 batches: 0.009515687637031079
+batch:80/219, loss(avg. on 20 batches: 0.00980776094365865
+batch:100/219, loss(avg. on 20 batches: 0.009494093782268464
+batch:120/219, loss(avg. on 20 batches: 0.009787347191013396
+batch:140/219, loss(avg. on 20 batches: 0.011376939434558152
+batch:160/219, loss(avg. on 20 batches: 0.010277213645167649
+batch:180/219, loss(avg. on 20 batches: 0.010237356927245856
+batch:200/219, loss(avg. on 20 batches: 0.009389159572310745
+test result: score: 308.7976379394531, RMSE: 15.603750228881836
+best_score_checkpoints saved successfully!
+Epoch: 31
+batch:20/219, loss(avg. on 20 batches: 0.008674789150245488
+batch:40/219, loss(avg. on 20 batches: 0.008786497777327896
+batch:60/219, loss(avg. on 20 batches: 0.009719246719032525
+batch:80/219, loss(avg. on 20 batches: 0.010231595882214607
+batch:100/219, loss(avg. on 20 batches: 0.008757783658802509
+batch:120/219, loss(avg. on 20 batches: 0.008771975198760629
+batch:140/219, loss(avg. on 20 batches: 0.00973485535942018
+batch:160/219, loss(avg. on 20 batches: 0.008805897342972458
+batch:180/219, loss(avg. on 20 batches: 0.00917934556491673
+batch:200/219, loss(avg. on 20 batches: 0.00911860098131001
+test result: score: 316.36724853515625, RMSE: 16.13491439819336
+Epoch: 32
+batch:20/219, loss(avg. on 20 batches: 0.00901383077725768
+batch:40/219, loss(avg. on 20 batches: 0.009563692449592053
+batch:60/219, loss(avg. on 20 batches: 0.00843166692648083
+batch:80/219, loss(avg. on 20 batches: 0.008875843533314765
+batch:100/219, loss(avg. on 20 batches: 0.008880248945206403
+batch:120/219, loss(avg. on 20 batches: 0.00957953508477658
+batch:140/219, loss(avg. on 20 batches: 0.00923062078654766
+batch:160/219, loss(avg. on 20 batches: 0.00888132092077285
+batch:180/219, loss(avg. on 20 batches: 0.008705005631782115
+batch:200/219, loss(avg. on 20 batches: 0.009922845847904682
+test result: score: 351.073486328125, RMSE: 17.05367088317871
+Epoch: 1
+batch:20/219, loss(avg. on 20 batches: 0.48985305428504944
+batch:40/219, loss(avg. on 20 batches: 0.14080527648329735
+batch:60/219, loss(avg. on 20 batches: 0.05684530697762966
+batch:80/219, loss(avg. on 20 batches: 0.05211864579468965
+batch:100/219, loss(avg. on 20 batches: 0.04981785211712122
+batch:120/219, loss(avg. on 20 batches: 0.04756249282509088
+batch:140/219, loss(avg. on 20 batches: 0.048374426737427714
+batch:160/219, loss(avg. on 20 batches: 0.04630899969488382
+batch:180/219, loss(avg. on 20 batches: 0.04581765290349722
+batch:200/219, loss(avg. on 20 batches: 0.04540291298180819
+test result: score: 9962.283203125, RMSE: 29.02266502380371
+Epoch: 2
+batch:20/219, loss(avg. on 20 batches: 0.04291416089981794
+batch:40/219, loss(avg. on 20 batches: 0.04392142407596111
+batch:60/219, loss(avg. on 20 batches: 0.04540101364254952
+batch:80/219, loss(avg. on 20 batches: 0.04336420185863972
+batch:100/219, loss(avg. on 20 batches: 0.04103495851159096
+batch:120/219, loss(avg. on 20 batches: 0.04011135846376419
+batch:140/219, loss(avg. on 20 batches: 0.04361404217779637
+batch:160/219, loss(avg. on 20 batches: 0.042463450506329534
+batch:180/219, loss(avg. on 20 batches: 0.039453876111656426
+batch:200/219, loss(avg. on 20 batches: 0.036816902738064525
+test result: score: 3387.798095703125, RMSE: 24.071815490722656
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 3
+batch:20/219, loss(avg. on 20 batches: 0.04026284217834473
+batch:40/219, loss(avg. on 20 batches: 0.03948433101177216
+batch:60/219, loss(avg. on 20 batches: 0.038760652765631676
+batch:80/219, loss(avg. on 20 batches: 0.03569122590124607
+batch:100/219, loss(avg. on 20 batches: 0.03660717234015465
+batch:120/219, loss(avg. on 20 batches: 0.03500201031565666
+batch:140/219, loss(avg. on 20 batches: 0.035901238303631546
+batch:160/219, loss(avg. on 20 batches: 0.03604660890996456
+batch:180/219, loss(avg. on 20 batches: 0.03553949072957039
+batch:200/219, loss(avg. on 20 batches: 0.03742479123175144
+test result: score: 2679.216796875, RMSE: 23.029876708984375
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 4
+batch:20/219, loss(avg. on 20 batches: 0.03524048952385783
+batch:40/219, loss(avg. on 20 batches: 0.03276384398341179
+batch:60/219, loss(avg. on 20 batches: 0.03407077072188258
+batch:80/219, loss(avg. on 20 batches: 0.03488475177437067
+batch:100/219, loss(avg. on 20 batches: 0.03291586870327592
+batch:120/219, loss(avg. on 20 batches: 0.030997103825211526
+batch:140/219, loss(avg. on 20 batches: 0.03460356574505567
+batch:160/219, loss(avg. on 20 batches: 0.033510955329984424
+batch:180/219, loss(avg. on 20 batches: 0.03330919956788421
+batch:200/219, loss(avg. on 20 batches: 0.032448139041662216
+test result: score: 1717.253173828125, RMSE: 22.024133682250977
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 5
+batch:20/219, loss(avg. on 20 batches: 0.03173338333144784
+batch:40/219, loss(avg. on 20 batches: 0.03333289911970496
+batch:60/219, loss(avg. on 20 batches: 0.03355054510757327
+batch:80/219, loss(avg. on 20 batches: 0.03261313661932945
+batch:100/219, loss(avg. on 20 batches: 0.034816568996757266
+batch:120/219, loss(avg. on 20 batches: 0.03247525040060282
+batch:140/219, loss(avg. on 20 batches: 0.03016678588464856
+batch:160/219, loss(avg. on 20 batches: 0.03318591332063079
+batch:180/219, loss(avg. on 20 batches: 0.03265129141509533
+batch:200/219, loss(avg. on 20 batches: 0.030852354038506745
+test result: score: 1670.3953857421875, RMSE: 21.639511108398438
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 6
+batch:20/219, loss(avg. on 20 batches: 0.03153475793078542
+batch:40/219, loss(avg. on 20 batches: 0.029604670498520134
+batch:60/219, loss(avg. on 20 batches: 0.02921132044866681
+batch:80/219, loss(avg. on 20 batches: 0.030265421885997058
+batch:100/219, loss(avg. on 20 batches: 0.02791699217632413
+batch:120/219, loss(avg. on 20 batches: 0.028270910400897263
+batch:140/219, loss(avg. on 20 batches: 0.029263906739652158
+batch:160/219, loss(avg. on 20 batches: 0.02673809854313731
+batch:180/219, loss(avg. on 20 batches: 0.027435572072863578
+batch:200/219, loss(avg. on 20 batches: 0.027888805139809847
+test result: score: 1268.706298828125, RMSE: 20.886388778686523
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 7
+batch:20/219, loss(avg. on 20 batches: 0.025561015773564576
+batch:40/219, loss(avg. on 20 batches: 0.026803497970104218
+batch:60/219, loss(avg. on 20 batches: 0.024571860488504172
+batch:80/219, loss(avg. on 20 batches: 0.025968171749264003
+batch:100/219, loss(avg. on 20 batches: 0.02473785588517785
+batch:120/219, loss(avg. on 20 batches: 0.02442059349268675
+batch:140/219, loss(avg. on 20 batches: 0.024427293660119177
+batch:160/219, loss(avg. on 20 batches: 0.02464393051341176
+batch:180/219, loss(avg. on 20 batches: 0.021631573885679246
+batch:200/219, loss(avg. on 20 batches: 0.021842882689088582
+test result: score: 1784.771728515625, RMSE: 21.43073081970215
+Epoch: 8
+batch:20/219, loss(avg. on 20 batches: 0.024722624570131302
+batch:40/219, loss(avg. on 20 batches: 0.023078033607453106
+batch:60/219, loss(avg. on 20 batches: 0.02336426549591124
+batch:80/219, loss(avg. on 20 batches: 0.02286113891750574
+batch:100/219, loss(avg. on 20 batches: 0.022705359663814307
+batch:120/219, loss(avg. on 20 batches: 0.021840380458161234
+batch:140/219, loss(avg. on 20 batches: 0.02111909640952945
+batch:160/219, loss(avg. on 20 batches: 0.022012636112049223
+batch:180/219, loss(avg. on 20 batches: 0.021104124188423157
+batch:200/219, loss(avg. on 20 batches: 0.021921546198427677
+test result: score: 866.2279052734375, RMSE: 19.631500244140625
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 9
+batch:20/219, loss(avg. on 20 batches: 0.020168112684041263
+batch:40/219, loss(avg. on 20 batches: 0.020464692544192076
+batch:60/219, loss(avg. on 20 batches: 0.020693983230739833
+batch:80/219, loss(avg. on 20 batches: 0.020927201211452483
+batch:100/219, loss(avg. on 20 batches: 0.019592422898858784
+batch:120/219, loss(avg. on 20 batches: 0.020854126289486886
+batch:140/219, loss(avg. on 20 batches: 0.018639751337468626
+batch:160/219, loss(avg. on 20 batches: 0.019118877407163382
+batch:180/219, loss(avg. on 20 batches: 0.01901666559278965
+batch:200/219, loss(avg. on 20 batches: 0.019136438332498073
+test result: score: 581.40283203125, RMSE: 18.545316696166992
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 10
+batch:20/219, loss(avg. on 20 batches: 0.01782983113080263
+batch:40/219, loss(avg. on 20 batches: 0.017797334073111414
+batch:60/219, loss(avg. on 20 batches: 0.016641351114958524
+batch:80/219, loss(avg. on 20 batches: 0.021172505151480437
+batch:100/219, loss(avg. on 20 batches: 0.018148121330887078
+batch:120/219, loss(avg. on 20 batches: 0.017031162045896053
+batch:140/219, loss(avg. on 20 batches: 0.01757851764559746
+batch:160/219, loss(avg. on 20 batches: 0.016620035469532012
+batch:180/219, loss(avg. on 20 batches: 0.017878653854131697
+batch:200/219, loss(avg. on 20 batches: 0.016929303389042617
+test result: score: 496.28814697265625, RMSE: 17.631399154663086
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 11
+batch:20/219, loss(avg. on 20 batches: 0.016447678627446293
+batch:40/219, loss(avg. on 20 batches: 0.015872722677886485
+batch:60/219, loss(avg. on 20 batches: 0.01589204533956945
+batch:80/219, loss(avg. on 20 batches: 0.01608920148573816
+batch:100/219, loss(avg. on 20 batches: 0.015576869156211615
+batch:120/219, loss(avg. on 20 batches: 0.017222464457154273
+batch:140/219, loss(avg. on 20 batches: 0.015472755255177616
+batch:160/219, loss(avg. on 20 batches: 0.014720879960805178
+batch:180/219, loss(avg. on 20 batches: 0.015580105734989047
+batch:200/219, loss(avg. on 20 batches: 0.014493826590478421
+test result: score: 651.84375, RMSE: 17.148645401000977
+best_RMSE_checkpoints saved successfully!
+Epoch: 12
+batch:20/219, loss(avg. on 20 batches: 0.015604979265481234
+batch:40/219, loss(avg. on 20 batches: 0.014102646755054593
+batch:60/219, loss(avg. on 20 batches: 0.014176956843584776
+batch:80/219, loss(avg. on 20 batches: 0.016453318856656553
+batch:100/219, loss(avg. on 20 batches: 0.018181772250682116
+batch:120/219, loss(avg. on 20 batches: 0.01807789532467723
+batch:140/219, loss(avg. on 20 batches: 0.01430098176933825
+batch:160/219, loss(avg. on 20 batches: 0.01417642468586564
+batch:180/219, loss(avg. on 20 batches: 0.014094514772295952
+batch:200/219, loss(avg. on 20 batches: 0.014184914808720351
+test result: score: 598.013671875, RMSE: 16.57968521118164
+best_RMSE_checkpoints saved successfully!
+Epoch: 13
+batch:20/219, loss(avg. on 20 batches: 0.015177752729505301
+batch:40/219, loss(avg. on 20 batches: 0.015974052203819155
+batch:60/219, loss(avg. on 20 batches: 0.013925379328429698
+batch:80/219, loss(avg. on 20 batches: 0.013974859658628703
+batch:100/219, loss(avg. on 20 batches: 0.01472729118540883
+batch:120/219, loss(avg. on 20 batches: 0.014955871598795056
+batch:140/219, loss(avg. on 20 batches: 0.01573649304918945
+batch:160/219, loss(avg. on 20 batches: 0.015427655912935734
+batch:180/219, loss(avg. on 20 batches: 0.013621702650561928
+batch:200/219, loss(avg. on 20 batches: 0.014499805262312293
+test result: score: 476.3049011230469, RMSE: 16.0822696685791
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 14
+batch:20/219, loss(avg. on 20 batches: 0.014046364417299628
+batch:40/219, loss(avg. on 20 batches: 0.013724427670240402
+batch:60/219, loss(avg. on 20 batches: 0.014570989925414325
+batch:80/219, loss(avg. on 20 batches: 0.014374934090301394
+batch:100/219, loss(avg. on 20 batches: 0.013585504842922091
+batch:120/219, loss(avg. on 20 batches: 0.01320880725979805
+batch:140/219, loss(avg. on 20 batches: 0.015022767754271627
+batch:160/219, loss(avg. on 20 batches: 0.01356127979233861
+batch:180/219, loss(avg. on 20 batches: 0.01282734670676291
+batch:200/219, loss(avg. on 20 batches: 0.014069648971781135
+test result: score: 457.179443359375, RMSE: 15.815526008605957
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 15
+batch:20/219, loss(avg. on 20 batches: 0.0139828747138381
+batch:40/219, loss(avg. on 20 batches: 0.012819647835567594
+batch:60/219, loss(avg. on 20 batches: 0.014487598044797777
+batch:80/219, loss(avg. on 20 batches: 0.01373653686605394
+batch:100/219, loss(avg. on 20 batches: 0.014594273269176483
+batch:120/219, loss(avg. on 20 batches: 0.013705166894942522
+batch:140/219, loss(avg. on 20 batches: 0.013553197169676423
+batch:160/219, loss(avg. on 20 batches: 0.012916415929794312
+batch:180/219, loss(avg. on 20 batches: 0.013881405536085367
+batch:200/219, loss(avg. on 20 batches: 0.01392196207307279
+test result: score: 472.96209716796875, RMSE: 15.566081047058105
+best_RMSE_checkpoints saved successfully!
+Epoch: 16
+batch:20/219, loss(avg. on 20 batches: 0.012555089499801397
+batch:40/219, loss(avg. on 20 batches: 0.014613225730136037
+batch:60/219, loss(avg. on 20 batches: 0.012751812720671296
+batch:80/219, loss(avg. on 20 batches: 0.013464894471690058
+batch:100/219, loss(avg. on 20 batches: 0.012731847772374748
+batch:120/219, loss(avg. on 20 batches: 0.013803801778703929
+batch:140/219, loss(avg. on 20 batches: 0.014611921506002545
+batch:160/219, loss(avg. on 20 batches: 0.014838487887755037
+batch:180/219, loss(avg. on 20 batches: 0.013850465882569551
+batch:200/219, loss(avg. on 20 batches: 0.012591271754354238
+test result: score: 410.10528564453125, RMSE: 15.662637710571289
+best_score_checkpoints saved successfully!
+Epoch: 17
+batch:20/219, loss(avg. on 20 batches: 0.013643545750528573
+batch:40/219, loss(avg. on 20 batches: 0.013700454030185938
+batch:60/219, loss(avg. on 20 batches: 0.013049383414909244
+batch:80/219, loss(avg. on 20 batches: 0.012945629097521305
+batch:100/219, loss(avg. on 20 batches: 0.013179904222488404
+batch:120/219, loss(avg. on 20 batches: 0.0135289013851434
+batch:140/219, loss(avg. on 20 batches: 0.012389845494180918
+batch:160/219, loss(avg. on 20 batches: 0.012970680906437337
+batch:180/219, loss(avg. on 20 batches: 0.014626031694933771
+batch:200/219, loss(avg. on 20 batches: 0.012807436846196651
+test result: score: 392.1776428222656, RMSE: 16.014352798461914
+best_score_checkpoints saved successfully!
+Epoch: 18
+batch:20/219, loss(avg. on 20 batches: 0.01310987276956439
+batch:40/219, loss(avg. on 20 batches: 0.012324748001992703
+batch:60/219, loss(avg. on 20 batches: 0.014382690330967307
+batch:80/219, loss(avg. on 20 batches: 0.011791917216032743
+batch:100/219, loss(avg. on 20 batches: 0.011643321672454476
+batch:120/219, loss(avg. on 20 batches: 0.011865567206405104
+batch:140/219, loss(avg. on 20 batches: 0.012339721713215113
+batch:160/219, loss(avg. on 20 batches: 0.01242727660574019
+batch:180/219, loss(avg. on 20 batches: 0.014099771110340952
+batch:200/219, loss(avg. on 20 batches: 0.013231190526857972
+test result: score: 470.5209655761719, RMSE: 15.08641529083252
+best_RMSE_checkpoints saved successfully!
+Epoch: 19
+batch:20/219, loss(avg. on 20 batches: 0.01324539678171277
+batch:40/219, loss(avg. on 20 batches: 0.012350209336727858
+batch:60/219, loss(avg. on 20 batches: 0.012408779468387365
+batch:80/219, loss(avg. on 20 batches: 0.012260161433368921
+batch:100/219, loss(avg. on 20 batches: 0.012346365256235003
+batch:120/219, loss(avg. on 20 batches: 0.01156699717976153
+batch:140/219, loss(avg. on 20 batches: 0.011843635560944676
+batch:160/219, loss(avg. on 20 batches: 0.012602237798273564
+batch:180/219, loss(avg. on 20 batches: 0.012527555786073208
+batch:200/219, loss(avg. on 20 batches: 0.012721088342368602
+test result: score: 426.2449035644531, RMSE: 15.113893508911133
+Epoch: 20
+batch:20/219, loss(avg. on 20 batches: 0.012061791215091943
+batch:40/219, loss(avg. on 20 batches: 0.01209072577767074
+batch:60/219, loss(avg. on 20 batches: 0.010907899076119065
+batch:80/219, loss(avg. on 20 batches: 0.01151719205081463
+batch:100/219, loss(avg. on 20 batches: 0.011750823631882668
+batch:120/219, loss(avg. on 20 batches: 0.011769260978326201
+batch:140/219, loss(avg. on 20 batches: 0.011409319192171096
+batch:160/219, loss(avg. on 20 batches: 0.01309554260224104
+batch:180/219, loss(avg. on 20 batches: 0.01165963727980852
+batch:200/219, loss(avg. on 20 batches: 0.012275307718664408
+test result: score: 392.32318115234375, RMSE: 15.372858047485352
+Epoch: 21
+batch:20/219, loss(avg. on 20 batches: 0.011708034062758088
+batch:40/219, loss(avg. on 20 batches: 0.011703452095389366
+batch:60/219, loss(avg. on 20 batches: 0.01224242290481925
+batch:80/219, loss(avg. on 20 batches: 0.013753230497241021
+batch:100/219, loss(avg. on 20 batches: 0.011985178664326667
+batch:120/219, loss(avg. on 20 batches: 0.012325532850809395
+batch:140/219, loss(avg. on 20 batches: 0.011703405249863862
+batch:160/219, loss(avg. on 20 batches: 0.01155906324274838
+batch:180/219, loss(avg. on 20 batches: 0.011512084351852536
+batch:200/219, loss(avg. on 20 batches: 0.011972011346369982
+test result: score: 408.4064636230469, RMSE: 14.800423622131348
+best_RMSE_checkpoints saved successfully!
+Epoch: 22
+batch:20/219, loss(avg. on 20 batches: 0.010943751316517591
+batch:40/219, loss(avg. on 20 batches: 0.011292758374474942
+batch:60/219, loss(avg. on 20 batches: 0.011672144243493675
+batch:80/219, loss(avg. on 20 batches: 0.012103842291980981
+batch:100/219, loss(avg. on 20 batches: 0.010697673261165618
+batch:120/219, loss(avg. on 20 batches: 0.011219825106672942
+batch:140/219, loss(avg. on 20 batches: 0.011452507600188256
+batch:160/219, loss(avg. on 20 batches: 0.011531518422998488
+batch:180/219, loss(avg. on 20 batches: 0.010673562297597528
+batch:200/219, loss(avg. on 20 batches: 0.011428310605697333
+test result: score: 392.4925842285156, RMSE: 15.371687889099121
+Epoch: 23
+batch:20/219, loss(avg. on 20 batches: 0.010613259114325046
+batch:40/219, loss(avg. on 20 batches: 0.011027627205476166
+batch:60/219, loss(avg. on 20 batches: 0.01151577727869153
+batch:80/219, loss(avg. on 20 batches: 0.011596349254250526
+batch:100/219, loss(avg. on 20 batches: 0.011742476536892355
+batch:120/219, loss(avg. on 20 batches: 0.011478916811756789
+batch:140/219, loss(avg. on 20 batches: 0.011008571414276958
+batch:160/219, loss(avg. on 20 batches: 0.010849956795573235
+batch:180/219, loss(avg. on 20 batches: 0.010454371804371476
+batch:200/219, loss(avg. on 20 batches: 0.0113986202981323
+test result: score: 612.0198974609375, RMSE: 16.34973907470703
+Epoch: 24
+batch:20/219, loss(avg. on 20 batches: 0.011690618144348264
+batch:40/219, loss(avg. on 20 batches: 0.01032983181066811
+batch:60/219, loss(avg. on 20 batches: 0.010804842622019351
+batch:80/219, loss(avg. on 20 batches: 0.012464365642517804
+batch:100/219, loss(avg. on 20 batches: 0.012163437996059656
+batch:120/219, loss(avg. on 20 batches: 0.012775718187913298
+batch:140/219, loss(avg. on 20 batches: 0.012214576359838247
+batch:160/219, loss(avg. on 20 batches: 0.01084111004602164
+batch:180/219, loss(avg. on 20 batches: 0.011351207923144101
+batch:200/219, loss(avg. on 20 batches: 0.010832253214903175
+test result: score: 340.6112976074219, RMSE: 14.553009033203125
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 25
+batch:20/219, loss(avg. on 20 batches: 0.011047272011637688
+batch:40/219, loss(avg. on 20 batches: 0.010457279882393778
+batch:60/219, loss(avg. on 20 batches: 0.011161432624794543
+batch:80/219, loss(avg. on 20 batches: 0.01201878278516233
+batch:100/219, loss(avg. on 20 batches: 0.011931621422991156
+batch:120/219, loss(avg. on 20 batches: 0.010944899450987578
+batch:140/219, loss(avg. on 20 batches: 0.010156584926880896
+batch:160/219, loss(avg. on 20 batches: 0.010282245697453618
+batch:180/219, loss(avg. on 20 batches: 0.012446455890312791
+batch:200/219, loss(avg. on 20 batches: 0.010142594925127923
+test result: score: 449.41070556640625, RMSE: 14.621875762939453
+Epoch: 26
+batch:20/219, loss(avg. on 20 batches: 0.010059817903675139
+batch:40/219, loss(avg. on 20 batches: 0.010819620545953512
+batch:60/219, loss(avg. on 20 batches: 0.010643018106929959
+batch:80/219, loss(avg. on 20 batches: 0.010505721042864024
+batch:100/219, loss(avg. on 20 batches: 0.0102006864733994
+batch:120/219, loss(avg. on 20 batches: 0.011356119927950204
+batch:140/219, loss(avg. on 20 batches: 0.010447311587631703
+batch:160/219, loss(avg. on 20 batches: 0.011138619063422084
+batch:180/219, loss(avg. on 20 batches: 0.009855291806161404
+batch:200/219, loss(avg. on 20 batches: 0.010453146742656827
+test result: score: 393.678955078125, RMSE: 14.146153450012207
+best_RMSE_checkpoints saved successfully!
+Epoch: 27
+batch:20/219, loss(avg. on 20 batches: 0.010596335516311228
+batch:40/219, loss(avg. on 20 batches: 0.010333233559504152
+batch:60/219, loss(avg. on 20 batches: 0.009743379917927087
+batch:80/219, loss(avg. on 20 batches: 0.009764725435525179
+batch:100/219, loss(avg. on 20 batches: 0.009499007556587457
+batch:120/219, loss(avg. on 20 batches: 0.011589953489601613
+batch:140/219, loss(avg. on 20 batches: 0.010254189488478005
+batch:160/219, loss(avg. on 20 batches: 0.012180883646942675
+batch:180/219, loss(avg. on 20 batches: 0.011559405620209873
+batch:200/219, loss(avg. on 20 batches: 0.010031863674521446
+test result: score: 383.7026062011719, RMSE: 14.551247596740723
+Epoch: 28
+batch:20/219, loss(avg. on 20 batches: 0.009926018165424466
+batch:40/219, loss(avg. on 20 batches: 0.01075154016725719
+batch:60/219, loss(avg. on 20 batches: 0.010279714269563556
+batch:80/219, loss(avg. on 20 batches: 0.010919830156490206
+batch:100/219, loss(avg. on 20 batches: 0.010570483491756022
+batch:120/219, loss(avg. on 20 batches: 0.010359989851713181
+batch:140/219, loss(avg. on 20 batches: 0.010165984206832946
+batch:160/219, loss(avg. on 20 batches: 0.01035745870321989
+batch:180/219, loss(avg. on 20 batches: 0.010416855360381306
+batch:200/219, loss(avg. on 20 batches: 0.009677269239909947
+test result: score: 432.8609313964844, RMSE: 16.04969024658203
+Epoch: 29
+batch:20/219, loss(avg. on 20 batches: 0.01103290964383632
+batch:40/219, loss(avg. on 20 batches: 0.010787144000642002
+batch:60/219, loss(avg. on 20 batches: 0.009840166778303683
+batch:80/219, loss(avg. on 20 batches: 0.010598596837371587
+batch:100/219, loss(avg. on 20 batches: 0.010094721196219325
+batch:120/219, loss(avg. on 20 batches: 0.009671514225192367
+batch:140/219, loss(avg. on 20 batches: 0.009874045057222247
+batch:160/219, loss(avg. on 20 batches: 0.009922167169861495
+batch:180/219, loss(avg. on 20 batches: 0.009677529614418746
+batch:200/219, loss(avg. on 20 batches: 0.010310839908197523
+test result: score: 505.5997314453125, RMSE: 14.440025329589844
+Epoch: 30
+batch:20/219, loss(avg. on 20 batches: 0.009573704190552234
+batch:40/219, loss(avg. on 20 batches: 0.009751968015916646
+batch:60/219, loss(avg. on 20 batches: 0.009596315887756645
+batch:80/219, loss(avg. on 20 batches: 0.009655617317184806
+batch:100/219, loss(avg. on 20 batches: 0.009357129433192312
+batch:120/219, loss(avg. on 20 batches: 0.01008959491737187
+batch:140/219, loss(avg. on 20 batches: 0.010032439744099975
+batch:160/219, loss(avg. on 20 batches: 0.009760743426159024
+batch:180/219, loss(avg. on 20 batches: 0.008771672192960978
+batch:200/219, loss(avg. on 20 batches: 0.010078522679395973
+test result: score: 317.3345031738281, RMSE: 13.998724937438965
+best_score_checkpoints saved successfully!
+best_RMSE_checkpoints saved successfully!
+Epoch: 31
+batch:20/219, loss(avg. on 20 batches: 0.010131548182107509
+batch:40/219, loss(avg. on 20 batches: 0.009188876207917928
+batch:60/219, loss(avg. on 20 batches: 0.009189254487864673
+batch:80/219, loss(avg. on 20 batches: 0.010104910051450134
+batch:100/219, loss(avg. on 20 batches: 0.00989381184335798
+batch:120/219, loss(avg. on 20 batches: 0.010607215226627886
+batch:140/219, loss(avg. on 20 batches: 0.010959740681573748
+batch:160/219, loss(avg. on 20 batches: 0.010123505699448287
+batch:180/219, loss(avg. on 20 batches: 0.009030053089372814
+batch:200/219, loss(avg. on 20 batches: 0.009217059635557235
+test result: score: 414.5616760253906, RMSE: 13.892535209655762
+best_RMSE_checkpoints saved successfully!
+Epoch: 32
+batch:20/219, loss(avg. on 20 batches: 0.010155083192512394
+batch:40/219, loss(avg. on 20 batches: 0.00927223740145564
+batch:60/219, loss(avg. on 20 batches: 0.009974310919642449
+batch:80/219, loss(avg. on 20 batches: 0.009234607149846853
+batch:100/219, loss(avg. on 20 batches: 0.009984799125231803
+batch:120/219, loss(avg. on 20 batches: 0.009053212753497065
+batch:140/219, loss(avg. on 20 batches: 0.009778901911340654
+batch:160/219, loss(avg. on 20 batches: 0.009406198025681078
+batch:180/219, loss(avg. on 20 batches: 0.008856143546290695
+batch:200/219, loss(avg. on 20 batches: 0.009184342459775507
+test result: score: 329.1109619140625, RMSE: 13.475823402404785
+best_RMSE_checkpoints saved successfully!

@@ -59,6 +59,43 @@ class Model_CNN_feature(nn.Module):
         out = self.linear(combined_x)
         return out
 
+class Model_LSTM(nn.Module):
+    def __init__(self, window_size, ori_feature_num, handcrafted_feature_num):
+        super(Model_LSTM, self).__init__()
+        self.lstm = nn.LSTM(batch_first=True, input_size=ori_feature_num, hidden_size=50, num_layers=1, dropout=0.1)
+        self.linear = nn.Sequential(
+            nn.Linear(in_features=50, out_features=64),
+            nn.ReLU(),
+            nn.Linear(in_features=64, out_features=64),
+            nn.ReLU(),
+            nn.Linear(in_features=64, out_features=1)
+        )
+
+    # Defining the forward pass
+    def forward(self, inputs, handcrafted_feature):
+        x, (hn, cn) = self.lstm(inputs)
+        out = self.linear(x[:, -1, :])
+        return out
+
+class Model_LSTM_feature(nn.Module):
+    def __init__(self, window_size, ori_feature_num, handcrafted_feature_num):
+        super(Model_LSTM_feature, self).__init__()
+        self.lstm = nn.LSTM(batch_first=True, input_size=ori_feature_num, hidden_size=50, num_layers=1, dropout=0.1)
+        self.linear = nn.Sequential(
+            nn.Linear(in_features=50 + handcrafted_feature_num, out_features=64),
+            nn.ReLU(),
+            nn.Linear(in_features=64, out_features=64),
+            nn.ReLU(),
+            nn.Linear(in_features=64, out_features=1)
+        )
+
+    # Defining the forward pass
+    def forward(self, inputs, handcrafted_feature):
+        x, (hn, cn) = self.lstm(inputs)
+        combined_x = torch.cat((x[:, -1, :], handcrafted_feature), dim=1)
+        out = self.linear(combined_x)
+        return out
+
 class Model(nn.Module):
     def __init__(self, window_size, ori_feature_num, handcrafted_feature_num):
         super(Model, self).__init__()
